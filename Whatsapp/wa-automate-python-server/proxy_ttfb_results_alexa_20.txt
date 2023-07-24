@@ -1,0 +1,2542 @@
+Waiting for QR
+Bot started
+Time taken to receive the message : 1.9637439250946045
+URL https://www.google.com 1588147394.9782667
+Time taken by proxy to respond: 0.9530813694000244
+
+Time taken to receive the message : 1.7461392879486084
+URL https://www.google.com 1588147399.225587
+Time taken by proxy to respond: 0.8649260997772217
+
+Time taken to receive the message : 1.5724048614501953
+URL https://www.google.com 1588147403.2405686
+Time taken by proxy to respond: 0.9603674411773682
+
+Time taken to receive the message : 1.4166336059570312
+URL https://www.google.com 1588147407.0658224
+Time taken by proxy to respond: 0.8265936374664307
+
+Time taken to receive the message : 1.1656324863433838
+URL https://www.google.com 1588147410.1650176
+Time taken by proxy to respond: 0.9642119407653809
+
+Time taken to receive the message : 1.2090184688568115
+URL https://www.google.com 1588147413.0335357
+Time taken by proxy to respond: 0.8644013404846191
+
+Time taken to receive the message : 1.1514196395874023
+URL https://www.google.com 1588147415.919878
+Time taken by proxy to respond: 0.9299876689910889
+
+Time taken to receive the message : 1.2669596672058105
+URL https://www.google.com 1588147418.6833024
+Time taken by proxy to respond: 1.122344732284546
+
+Time taken to receive the message : 1.7448549270629883
+URL https://www.google.com 1588147422.596154
+Time taken by proxy to respond: 0.9914259910583496
+
+Time taken to receive the message : 1.8833770751953125
+URL https://www.google.com 1588147426.6424062
+Time taken by proxy to respond: 0.9151489734649658
+
+Time taken to receive the message : 1.4216113090515137
+URL https://www.google.com 1588147430.8263078
+Time taken by proxy to respond: 1.3124992847442627
+
+Time taken to receive the message : 1.5810933113098145
+URL https://www.google.com 1588147434.8272822
+Time taken by proxy to respond: 0.8894493579864502
+
+Time taken to receive the message : 1.4967100620269775
+URL https://www.google.com 1588147438.7071557
+Time taken by proxy to respond: 0.9177019596099854
+
+Time taken to receive the message : 1.9028618335723877
+URL https://www.google.com 1588147442.693116
+Time taken by proxy to respond: 0.864464521408081
+
+Time taken to receive the message : 1.4008526802062988
+URL https://www.google.com 1588147446.885271
+Time taken by proxy to respond: 0.8980085849761963
+
+Time taken to receive the message : 2.112056255340576
+URL https://www.google.com 1588147449.959086
+Time taken by proxy to respond: 0.8987529277801514
+
+Time taken to receive the message : 1.355102300643921
+URL https://www.google.com 1588147453.9883127
+Time taken by proxy to respond: 1.0214483737945557
+
+Time taken to receive the message : 1.3660800457000732
+URL https://www.google.com 1588147457.8145347
+Time taken by proxy to respond: 1.093827486038208
+
+Time taken to receive the message : 1.35318922996521
+URL https://www.google.com 1588147461.6967378
+Time taken by proxy to respond: 0.9660665988922119
+
+Time taken to receive the message : 1.758746862411499
+URL https://www.google.com 1588147465.5109317
+Time taken by proxy to respond: 0.8879961967468262
+
+Time taken to receive the message : 1.8100979328155518
+URL https://www.google.com 1588147468.7020168
+Time taken by proxy to respond: 1.1652238368988037
+
+Time taken to receive the message : 1.2871119976043701
+URL https://www.google.com 1588147472.842025
+Time taken by proxy to respond: 0.8647840023040771
+
+Time taken to receive the message : 1.2547132968902588
+URL https://www.google.com 1588147475.8359294
+Time taken by proxy to respond: 0.9440014362335205
+
+Time taken to receive the message : 1.195270299911499
+URL https://www.google.com 1588147478.7618341
+Time taken by proxy to respond: 0.8716866970062256
+
+Time taken to receive the message : 1.1596989631652832
+URL https://www.google.com 1588147481.610361
+Time taken by proxy to respond: 0.9122323989868164
+
+Time taken to receive the message : 1.2462775707244873
+URL https://www.google.com 1588147484.4670124
+Time taken by proxy to respond: 0.8799853324890137
+
+Time taken to receive the message : 1.6454126834869385
+URL https://www.google.com 1588147488.3560605
+Time taken by proxy to respond: 0.8875515460968018
+
+Time taken to receive the message : 1.5133378505706787
+URL https://www.google.com 1588147492.2642484
+Time taken by proxy to respond: 0.9027023315429688
+
+Time taken to receive the message : 1.3360896110534668
+URL https://www.google.com 1588147495.3188486
+Time taken by proxy to respond: 0.9383442401885986
+
+Time taken to receive the message : 1.424717664718628
+URL https://www.google.com 1588147498.3730206
+Time taken by proxy to respond: 0.9012279510498047
+
+Time taken to receive the message : 1.337289810180664
+URL https://www.google.com 1588147501.4238923
+Time taken by proxy to respond: 0.9087021350860596
+
+Time taken to receive the message : 1.5947706699371338
+URL https://www.google.com 1588147505.4151847
+Time taken by proxy to respond: 0.9350957870483398
+
+Time taken to receive the message : 1.1693344116210938
+URL https://www.google.com 1588147508.650763
+Time taken by proxy to respond: 0.9604253768920898
+
+Time taken to receive the message : 1.183072566986084
+URL https://www.google.com 1588147511.4964836
+Time taken by proxy to respond: 0.8938944339752197
+
+Time taken to receive the message : 1.2658195495605469
+URL https://www.google.com 1588147514.4342659
+Time taken by proxy to respond: 1.001579761505127
+
+Time taken to receive the message : 1.3191606998443604
+URL https://www.google.com 1588147517.4128945
+Time taken by proxy to respond: 0.9433450698852539
+
+Time taken to receive the message : 1.304703950881958
+URL https://www.google.com 1588147520.4142826
+Time taken by proxy to respond: 0.9664642810821533
+
+Time taken to receive the message : 1.3358466625213623
+URL https://www.google.com 1588147523.4385726
+Time taken by proxy to respond: 0.9754860401153564
+
+Time taken to receive the message : 1.3568148612976074
+URL https://www.google.com 1588147527.4644406
+Time taken by proxy to respond: 1.2140913009643555
+
+Time taken to receive the message : 1.4549386501312256
+URL https://www.google.com 1588147531.4558423
+Time taken by proxy to respond: 1.380084753036499
+
+Time taken to receive the message : 1.367490530014038
+URL https://www.google.com 1588147535.460757
+Time taken by proxy to respond: 0.8762462139129639
+
+Time taken to receive the message : 1.3996312618255615
+URL https://www.google.com 1588147539.4873636
+Time taken by proxy to respond: 1.004425048828125
+
+Time taken to receive the message : 1.7232656478881836
+URL https://www.google.com 1588147543.4917006
+Time taken by proxy to respond: 0.8916873931884766
+
+Time taken to receive the message : 1.378873348236084
+URL https://www.google.com 1588147547.3166826
+Time taken by proxy to respond: 0.898667573928833
+
+Time taken to receive the message : 1.3813345432281494
+URL https://www.google.com 1588147551.3178494
+Time taken by proxy to respond: 1.0702135562896729
+
+Time taken to receive the message : 1.8416810035705566
+URL https://www.google.com 1588147555.3205442
+Time taken by proxy to respond: 0.9117763042449951
+
+Time taken to receive the message : 1.6136970520019531
+URL https://www.google.com 1588147559.3778832
+Time taken by proxy to respond: 0.9478368759155273
+
+Time taken to receive the message : 1.094987154006958
+URL https://www.google.com 1588147563.2886505
+Time taken by proxy to respond: 0.9996614456176758
+
+Time taken to receive the message : 1.1711525917053223
+URL https://www.google.com 1588147566.110816
+Time taken by proxy to respond: 0.9870181083679199
+
+Time taken to receive the message : 1.2783010005950928
+URL https://www.youtube.com 1588147568.9130552
+Time taken by proxy to respond: 2.465904951095581
+
+Time taken to receive the message : 1.2289385795593262
+URL https://www.youtube.com 1588147573.9904819
+Time taken by proxy to respond: 1.9947497844696045
+
+Time taken to receive the message : 1.1690022945404053
+URL https://www.youtube.com 1588147577.819556
+Time taken by proxy to respond: 1.5341999530792236
+
+Time taken to receive the message : 1.265181541442871
+URL https://www.youtube.com 1588147581.7198184
+Time taken by proxy to respond: 2.017859935760498
+
+Time taken to receive the message : 1.6839346885681152
+URL https://www.youtube.com 1588147585.6256464
+Time taken by proxy to respond: 2.00500226020813
+
+Time taken to receive the message : 1.1366569995880127
+URL https://www.youtube.com 1588147590.7078836
+Time taken by proxy to respond: 1.4839441776275635
+
+Time taken to receive the message : 1.3283562660217285
+URL https://www.youtube.com 1588147594.598654
+Time taken by proxy to respond: 2.0118157863616943
+
+Time taken to receive the message : 1.171640157699585
+URL https://www.youtube.com 1588147598.6941037
+Time taken by proxy to respond: 1.6615819931030273
+
+Time taken to receive the message : 1.2912304401397705
+URL https://www.youtube.com 1588147602.5325403
+Time taken by proxy to respond: 2.3385329246520996
+
+Time taken to receive the message : 1.5741429328918457
+URL https://www.youtube.com 1588147607.5739398
+Time taken by proxy to respond: 2.0994136333465576
+
+Time taken to receive the message : 1.4470703601837158
+URL https://www.youtube.com 1588147612.576269
+Time taken by proxy to respond: 3.055124044418335
+
+Time taken to receive the message : 1.383582353591919
+URL https://www.youtube.com 1588147618.5447006
+Time taken by proxy to respond: 2.5205435752868652
+
+Time taken to receive the message : 1.4326093196868896
+URL https://www.youtube.com 1588147623.6694148
+Time taken by proxy to respond: 2.1875040531158447
+
+Time taken to receive the message : 1.55350923538208
+URL https://www.youtube.com 1588147628.6655304
+Time taken by proxy to respond: 1.6191482543945312
+
+Time taken to receive the message : 1.6644971370697021
+URL https://www.youtube.com 1588147632.6210008
+Time taken by proxy to respond: 2.5162949562072754
+
+Time taken to receive the message : 1.6677665710449219
+URL https://www.youtube.com 1588147637.9193974
+Time taken by proxy to respond: 1.7288002967834473
+
+Time taken to receive the message : 1.7209179401397705
+URL https://www.youtube.com 1588147641.9869974
+Time taken by proxy to respond: 2.563004970550537
+
+Time taken to receive the message : 1.4202852249145508
+URL https://www.youtube.com 1588147647.1877835
+Time taken by proxy to respond: 2.186380624771118
+
+Time taken to receive the message : 1.4395992755889893
+URL https://www.youtube.com 1588147652.2035022
+Time taken by proxy to respond: 2.0211033821105957
+
+Time taken to receive the message : 1.3220479488372803
+URL https://www.youtube.com 1588147657.0675728
+Time taken by proxy to respond: 1.3118658065795898
+
+Time taken to receive the message : 1.1665494441986084
+URL https://www.youtube.com 1588147661.19821
+Time taken by proxy to respond: 1.4369432926177979
+
+Time taken to receive the message : 1.0975019931793213
+URL https://www.youtube.com 1588147665.0176897
+Time taken by proxy to respond: 1.5658276081085205
+
+Time taken to receive the message : 1.191448450088501
+URL https://www.youtube.com 1588147668.8145578
+Time taken by proxy to respond: 1.5136785507202148
+
+Time taken to receive the message : 1.316695213317871
+URL https://www.youtube.com 1588147672.691709
+Time taken by proxy to respond: 2.033252000808716
+
+Time taken to receive the message : 1.2442402839660645
+URL https://www.youtube.com 1588147677.4966369
+Time taken by proxy to respond: 1.493661642074585
+
+Time taken to receive the message : 1.1459197998046875
+URL https://www.youtube.com 1588147681.3271837
+Time taken by proxy to respond: 1.3598473072052002
+
+Time taken to receive the message : 1.1456408500671387
+URL https://www.youtube.com 1588147685.2126713
+Time taken by proxy to respond: 2.2178714275360107
+
+Time taken to receive the message : 1.4734151363372803
+URL https://www.youtube.com 1588147690.0895734
+Time taken by proxy to respond: 2.6421096324920654
+
+Time taken to receive the message : 1.25632905960083
+URL https://www.youtube.com 1588147695.2062566
+Time taken by proxy to respond: 1.4133543968200684
+
+Time taken to receive the message : 1.1623833179473877
+URL https://www.youtube.com 1588147699.1496012
+Time taken by proxy to respond: 2.100687026977539
+
+Time taken to receive the message : 1.200376272201538
+URL https://www.youtube.com 1588147703.058996
+Time taken by proxy to respond: 2.2919230461120605
+
+Time taken to receive the message : 1.4553613662719727
+URL https://www.youtube.com 1588147708.0231073
+Time taken by proxy to respond: 2.100985050201416
+
+Time taken to receive the message : 1.3308403491973877
+URL https://www.youtube.com 1588147712.9308755
+Time taken by proxy to respond: 2.0118632316589355
+
+Time taken to receive the message : 1.5460336208343506
+URL https://www.youtube.com 1588147716.9128823
+Time taken by proxy to respond: 1.7666773796081543
+
+Time taken to receive the message : 1.2472736835479736
+URL https://www.youtube.com 1588147720.8163633
+Time taken by proxy to respond: 2.58035945892334
+
+Time taken to receive the message : 1.6952674388885498
+URL https://www.youtube.com 1588147725.8701706
+Time taken by proxy to respond: 2.0736289024353027
+
+Time taken to receive the message : 1.619886875152588
+URL https://www.youtube.com 1588147730.9524944
+Time taken by proxy to respond: 2.548207998275757
+
+Time taken to receive the message : 1.6996262073516846
+URL https://www.youtube.com 1588147736.0417213
+Time taken by proxy to respond: 1.5980257987976074
+
+Time taken to receive the message : 1.335702657699585
+URL https://www.youtube.com 1588147740.0814679
+Time taken by proxy to respond: 1.5805234909057617
+
+Time taken to receive the message : 1.5363719463348389
+URL https://www.youtube.com 1588147744.0750685
+Time taken by proxy to respond: 1.564997911453247
+
+Time taken to receive the message : 1.2304284572601318
+URL https://www.youtube.com 1588147748.0206208
+Time taken by proxy to respond: 1.4613542556762695
+
+Time taken to receive the message : 1.882117509841919
+URL https://www.youtube.com 1588147752.0106204
+Time taken by proxy to respond: 1.4478442668914795
+
+Time taken to receive the message : 1.3407576084136963
+URL https://www.youtube.com 1588147755.9414074
+Time taken by proxy to respond: 1.9125185012817383
+
+Time taken to receive the message : 1.215188980102539
+URL https://www.youtube.com 1588147759.9597702
+Time taken by proxy to respond: 2.3056445121765137
+
+Time taken to receive the message : 1.378683090209961
+URL https://www.youtube.com 1588147764.9394944
+Time taken by proxy to respond: 1.907383918762207
+
+Time taken to receive the message : 1.2217493057250977
+URL https://www.youtube.com 1588147768.9899917
+Time taken by proxy to respond: 1.9277522563934326
+
+Time taken to receive the message : 1.1950104236602783
+URL https://www.youtube.com 1588147772.876966
+Time taken by proxy to respond: 1.9599075317382812
+
+Time taken to receive the message : 1.20570707321167
+URL https://www.youtube.com 1588147776.810103
+Time taken by proxy to respond: 1.8584043979644775
+
+Time taken to receive the message : 1.3129303455352783
+URL https://www.youtube.com 1588147780.7848258
+Time taken by proxy to respond: 2.5168216228485107
+
+Time taken to receive the message : 1.6628382205963135
+URL https://www.tmall.com 1588147785.8077753
+Time taken by proxy to respond: 3.1148602962493896
+
+Time taken to receive the message : 1.6274354457855225
+URL https://www.tmall.com 1588147791.8128014
+Time taken by proxy to respond: 2.534332513809204
+
+Time taken to receive the message : 1.5987780094146729
+URL https://www.tmall.com 1588147796.7839477
+Time taken by proxy to respond: 2.6072888374328613
+
+Time taken to receive the message : 1.3286983966827393
+URL https://www.tmall.com 1588147801.7350874
+Time taken by proxy to respond: 1.4833769798278809
+
+Time taken to receive the message : 1.3238296508789062
+URL https://www.tmall.com 1588147805.6721206
+Time taken by proxy to respond: 1.4634463787078857
+
+Time taken to receive the message : 1.5226764678955078
+URL https://www.tmall.com 1588147809.509603
+Time taken by proxy to respond: 1.531888484954834
+
+Time taken to receive the message : 1.422334909439087
+URL https://www.tmall.com 1588147813.6301115
+Time taken by proxy to respond: 1.5985627174377441
+
+Time taken to receive the message : 1.3483126163482666
+URL https://www.tmall.com 1588147817.6002553
+Time taken by proxy to respond: 1.5035266876220703
+
+Time taken to receive the message : 1.5962040424346924
+URL https://www.tmall.com 1588147821.539554
+Time taken by proxy to respond: 1.5077998638153076
+
+Time taken to receive the message : 1.5674188137054443
+URL https://www.tmall.com 1588147825.6513216
+Time taken by proxy to respond: 1.4961450099945068
+
+Time taken to receive the message : 1.4875502586364746
+URL https://www.tmall.com 1588147829.724612
+Time taken by proxy to respond: 1.5698893070220947
+
+Time taken to receive the message : 1.4146783351898193
+URL https://www.tmall.com 1588147833.791835
+Time taken by proxy to respond: 1.6017565727233887
+
+Time taken to receive the message : 1.2289481163024902
+URL https://www.tmall.com 1588147837.7100842
+Time taken by proxy to respond: 2.2441258430480957
+
+Time taken to receive the message : 1.9867949485778809
+URL https://www.tmall.com 1588147842.624598
+Time taken by proxy to respond: 1.9173874855041504
+
+Time taken to receive the message : 1.1733338832855225
+URL https://www.tmall.com 1588147847.6254768
+Time taken by proxy to respond: 1.2214939594268799
+
+Time taken to receive the message : 1.6331677436828613
+URL https://www.tmall.com 1588147851.4990125
+Time taken by proxy to respond: 1.4991936683654785
+
+Time taken to receive the message : 1.4256978034973145
+URL https://www.tmall.com 1588147855.4800098
+Time taken by proxy to respond: 1.5305275917053223
+
+Time taken to receive the message : 1.2945725917816162
+URL https://www.tmall.com 1588147859.4159405
+Time taken by proxy to respond: 1.153195858001709
+
+Time taken to receive the message : 1.1399483680725098
+URL https://www.tmall.com 1588147862.4093175
+Time taken by proxy to respond: 1.132800579071045
+
+Time taken to receive the message : 1.2170262336730957
+URL https://www.tmall.com 1588147865.2530253
+Time taken by proxy to respond: 2.227330207824707
+
+Time taken to receive the message : 1.4454429149627686
+URL https://www.tmall.com 1588147870.1687064
+Time taken by proxy to respond: 1.8669078350067139
+
+Time taken to receive the message : 1.3712499141693115
+URL https://www.tmall.com 1588147875.1003776
+Time taken by proxy to respond: 1.3484182357788086
+
+Time taken to receive the message : 1.6045165061950684
+URL https://www.tmall.com 1588147879.193484
+Time taken by proxy to respond: 1.6549153327941895
+
+Time taken to receive the message : 1.1671299934387207
+URL https://www.tmall.com 1588147883.451891
+Time taken by proxy to respond: 1.1916954517364502
+
+Time taken to receive the message : 1.537848711013794
+URL https://www.tmall.com 1588147887.287053
+Time taken by proxy to respond: 1.6883046627044678
+
+Time taken to receive the message : 1.2783176898956299
+URL https://www.tmall.com 1588147891.5814245
+Time taken by proxy to respond: 1.535853624343872
+
+Time taken to receive the message : 1.6451606750488281
+URL https://www.tmall.com 1588147895.5463207
+Time taken by proxy to respond: 1.1790187358856201
+
+Time taken to receive the message : 1.3882732391357422
+URL https://www.tmall.com 1588147899.4244814
+Time taken by proxy to respond: 1.2175798416137695
+
+Time taken to receive the message : 1.3690800666809082
+URL https://www.tmall.com 1588147903.475557
+Time taken by proxy to respond: 1.6141762733459473
+
+Time taken to receive the message : 1.3344640731811523
+URL https://www.tmall.com 1588147907.5393367
+Time taken by proxy to respond: 2.0124361515045166
+
+Time taken to receive the message : 1.2921671867370605
+URL https://www.tmall.com 1588147912.5561948
+Time taken by proxy to respond: 1.5160601139068604
+
+Time taken to receive the message : 1.3564162254333496
+URL https://www.tmall.com 1588147916.48302
+Time taken by proxy to respond: 1.53987455368042
+
+Time taken to receive the message : 1.6795001029968262
+URL https://www.tmall.com 1588147920.4728062
+Time taken by proxy to respond: 1.573415756225586
+
+Time taken to receive the message : 1.5276751518249512
+URL https://www.tmall.com 1588147924.517462
+Time taken by proxy to respond: 1.2524173259735107
+
+Time taken to receive the message : 1.2318975925445557
+URL https://www.tmall.com 1588147928.496717
+Time taken by proxy to respond: 1.2489113807678223
+
+Time taken to receive the message : 1.2921819686889648
+URL https://www.tmall.com 1588147932.372011
+Time taken by proxy to respond: 1.003058910369873
+
+Time taken to receive the message : 1.34665846824646
+URL https://www.tmall.com 1588147935.3232305
+Time taken by proxy to respond: 1.2103631496429443
+
+Time taken to receive the message : 1.4991331100463867
+URL https://www.tmall.com 1588147939.428347
+Time taken by proxy to respond: 1.4762887954711914
+
+Time taken to receive the message : 1.822523593902588
+URL https://www.tmall.com 1588147943.6042092
+Time taken by proxy to respond: 1.5946195125579834
+
+Time taken to receive the message : 1.6700446605682373
+URL https://www.tmall.com 1588147947.6311562
+Time taken by proxy to respond: 1.631645917892456
+
+Time taken to receive the message : 1.66237473487854
+URL https://www.tmall.com 1588147951.7116766
+Time taken by proxy to respond: 1.2463734149932861
+
+Time taken to receive the message : 1.2869157791137695
+URL https://www.tmall.com 1588147955.6637087
+Time taken by proxy to respond: 1.2005369663238525
+
+Time taken to receive the message : 1.6674973964691162
+URL https://www.tmall.com 1588147959.7210243
+Time taken by proxy to respond: 2.008837938308716
+
+Time taken to receive the message : 1.4126877784729004
+URL https://www.tmall.com 1588147964.6983085
+Time taken by proxy to respond: 1.7392537593841553
+
+Time taken to receive the message : 1.4609730243682861
+URL https://www.tmall.com 1588147968.8122597
+Time taken by proxy to respond: 1.9255597591400146
+
+Time taken to receive the message : 1.4470067024230957
+URL https://www.tmall.com 1588147973.6876626
+Time taken by proxy to respond: 1.608574390411377
+
+Time taken to receive the message : 1.3720455169677734
+URL https://www.tmall.com 1588147977.8349466
+Time taken by proxy to respond: 1.5889892578125
+
+Time taken to receive the message : 1.421814203262329
+URL https://www.tmall.com 1588147981.7745879
+Time taken by proxy to respond: 1.6709325313568115
+
+Time taken to receive the message : 1.4490349292755127
+URL https://www.tmall.com 1588147985.9771411
+Time taken by proxy to respond: 1.2466545104980469
+
+Time taken to receive the message : 2.0751302242279053
+URL https://www.facebook.com 1588147990.1422684
+Time taken by proxy to respond: 2.0049326419830322
+
+Time taken to receive the message : 1.4917349815368652
+URL https://www.facebook.com 1588147995.601063
+Time taken by proxy to respond: 1.6891798973083496
+
+Time taken to receive the message : 1.64139723777771
+URL https://www.facebook.com 1588147999.7660503
+Time taken by proxy to respond: 1.4483842849731445
+
+Time taken to receive the message : 1.0923264026641846
+URL https://www.facebook.com 1588148003.977305
+Time taken by proxy to respond: 1.5686194896697998
+
+Time taken to receive the message : 1.6299631595611572
+URL https://www.facebook.com 1588148007.8676648
+Time taken by proxy to respond: 1.5591745376586914
+
+Time taken to receive the message : 1.4857606887817383
+URL https://www.facebook.com 1588148011.9126928
+Time taken by proxy to respond: 1.5354235172271729
+
+Time taken to receive the message : 1.8756561279296875
+URL https://www.facebook.com 1588148015.9887924
+Time taken by proxy to respond: 1.6839182376861572
+
+Time taken to receive the message : 1.1980769634246826
+URL https://www.facebook.com 1588148020.3531916
+Time taken by proxy to respond: 1.3220865726470947
+
+Time taken to receive the message : 2.0042624473571777
+URL https://www.facebook.com 1588148024.3549483
+Time taken by proxy to respond: 1.2727935314178467
+
+Time taken to receive the message : 1.5898516178131104
+URL https://www.facebook.com 1588148030.189482
+Time taken by proxy to respond: 1.3687760829925537
+
+Time taken to receive the message : 1.687986135482788
+URL https://www.facebook.com 1588148034.5511987
+Time taken by proxy to respond: 1.627263069152832
+
+Time taken to receive the message : 1.958972454071045
+URL https://www.facebook.com 1588148038.861228
+Time taken by proxy to respond: 1.2899057865142822
+
+Time taken to receive the message : 1.565420150756836
+URL https://www.facebook.com 1588148044.408402
+Time taken by proxy to respond: 1.2799527645111084
+
+Time taken to receive the message : 2.000190496444702
+URL https://www.facebook.com 1588148048.7660646
+Time taken by proxy to respond: 1.3104937076568604
+
+Time taken to receive the message : 2.2095208168029785
+URL https://www.facebook.com 1588148056.6962008
+Time taken by proxy to respond: 1.5051956176757812
+
+Time taken to receive the message : 1.9313383102416992
+URL https://www.facebook.com 1588148062.474634
+Time taken by proxy to respond: 1.7382168769836426
+
+Time taken to receive the message : 1.861938238143921
+URL https://www.facebook.com 1588148067.2325823
+Time taken by proxy to respond: 1.757605791091919
+
+Time taken to receive the message : 2.2869386672973633
+URL https://www.facebook.com 1588148076.8404045
+Time taken by proxy to respond: 1.451845645904541
+
+Time taken to receive the message : 2.717226266860962
+URL https://www.facebook.com 1588148082.353521
+Time taken by proxy to respond: 1.5387382507324219
+
+Time taken to receive the message : 1.971543788909912
+URL https://www.facebook.com 1588148088.0620797
+Time taken by proxy to respond: 1.5671420097351074
+
+Time taken to receive the message : 2.1407086849212646
+URL https://www.facebook.com 1588148094.4439912
+Time taken by proxy to respond: 1.500037431716919
+
+Time taken to receive the message : 1.6806299686431885
+URL https://www.facebook.com 1588148099.2782285
+Time taken by proxy to respond: 1.5389587879180908
+
+Time taken to receive the message : 2.5340447425842285
+URL https://www.facebook.com 1588148103.582827
+Time taken by proxy to respond: 1.5005438327789307
+
+Time taken to receive the message : 2.3255770206451416
+URL https://www.facebook.com 1588148112.793246
+Time taken by proxy to respond: 1.296938180923462
+
+Time taken to receive the message : 1.7696940898895264
+URL https://www.facebook.com 1588148117.7426274
+Time taken by proxy to respond: 1.2809116840362549
+
+Time taken to receive the message : 1.4432692527770996
+URL https://www.facebook.com 1588148122.3710828
+Time taken by proxy to respond: 1.2198402881622314
+
+Time taken to receive the message : 2.4270379543304443
+URL https://www.facebook.com 1588148126.5804162
+Time taken by proxy to respond: 1.5345759391784668
+
+Time taken to receive the message : 1.9831697940826416
+URL https://www.facebook.com 1588148131.6583173
+Time taken by proxy to respond: 1.4866769313812256
+
+Time taken to receive the message : 1.8863811492919922
+URL https://www.facebook.com 1588148137.164872
+Time taken by proxy to respond: 1.2417104244232178
+
+Time taken to receive the message : 2.7759153842926025
+URL https://www.facebook.com 1588148150.951685
+Time taken by proxy to respond: 1.4801380634307861
+
+Time taken to receive the message : 1.54367995262146
+URL https://www.facebook.com 1588148157.0659044
+Time taken by proxy to respond: 1.7366225719451904
+
+Time taken to receive the message : 1.3600149154663086
+URL https://www.facebook.com 1588148161.325646
+Time taken by proxy to respond: 1.556196928024292
+
+Time taken to receive the message : 1.94157075881958
+URL https://www.facebook.com 1588148165.3415303
+Time taken by proxy to respond: 2.340313196182251
+
+Time taken to receive the message : 1.9018197059631348
+URL https://www.facebook.com 1588148171.0149734
+Time taken by proxy to respond: 1.5167632102966309
+
+Time taken to receive the message : 1.7546138763427734
+URL https://www.facebook.com 1588148175.6828969
+Time taken by proxy to respond: 1.5584485530853271
+
+Time taken to receive the message : 1.6005704402923584
+URL https://www.facebook.com 1588148184.3012516
+Time taken by proxy to respond: 1.573775291442871
+
+Time taken to receive the message : 1.7508926391601562
+URL https://www.facebook.com 1588148189.623764
+Time taken by proxy to respond: 1.463547706604004
+
+Time taken to receive the message : 1.7990000247955322
+URL https://www.facebook.com 1588148193.9162765
+Time taken by proxy to respond: 1.5832312107086182
+
+Time taken to receive the message : 1.4540314674377441
+URL https://www.facebook.com 1588148199.2866561
+Time taken by proxy to respond: 1.2811367511749268
+
+Time taken to receive the message : 1.8805103302001953
+URL https://www.facebook.com 1588148203.523942
+Time taken by proxy to respond: 1.2709629535675049
+
+Time taken to receive the message : 1.558133602142334
+URL https://www.facebook.com 1588148208.2569585
+Time taken by proxy to respond: 1.2477431297302246
+
+Time taken to receive the message : 1.49588942527771
+URL https://www.facebook.com 1588148212.5542784
+Time taken by proxy to respond: 1.2455048561096191
+
+Time taken to receive the message : 2.159395456314087
+URL https://www.facebook.com 1588148216.8265646
+Time taken by proxy to respond: 1.4681291580200195
+
+Time taken to receive the message : 1.6914899349212646
+URL https://www.facebook.com 1588148221.5408888
+Time taken by proxy to respond: 1.4462087154388428
+
+Time taken to receive the message : 2.2648754119873047
+URL https://www.facebook.com 1588148226.8208847
+Time taken by proxy to respond: 1.5896921157836914
+
+Time taken to receive the message : 1.7981019020080566
+URL https://www.facebook.com 1588148232.8825665
+Time taken by proxy to respond: 1.2946586608886719
+
+Time taken to receive the message : 1.5873379707336426
+URL https://www.facebook.com 1588148237.2764976
+Time taken by proxy to respond: 1.254854679107666
+
+Time taken to receive the message : 3.632328748703003
+URL https://www.facebook.com 1588148245.8597832
+Time taken by proxy to respond: 1.3927929401397705
+
+Time taken to receive the message : 1.4610686302185059
+URL https://www.facebook.com 1588148252.9051104
+Time taken by proxy to respond: 1.5246624946594238
+
+Time taken to receive the message : 1.834897518157959
+URL https://www.baidu.com 1588148257.0202334
+Time taken by proxy to respond: 1.628406286239624
+
+Time taken to receive the message : 2.092183828353882
+URL https://www.baidu.com 1588148262.3280814
+Time taken by proxy to respond: 1.47074294090271
+
+Time taken to receive the message : 1.6756260395050049
+URL https://www.baidu.com 1588148266.6828487
+Time taken by proxy to respond: 1.4445672035217285
+
+Time taken to receive the message : 2.3487467765808105
+URL https://www.baidu.com 1588148279.5068057
+Time taken by proxy to respond: 1.4344449043273926
+
+Time taken to receive the message : 1.7197825908660889
+URL https://www.baidu.com 1588148284.1210136
+Time taken by proxy to respond: 1.6115024089813232
+
+Time taken to receive the message : 1.8266911506652832
+URL https://www.baidu.com 1588148288.628283
+Time taken by proxy to respond: 1.1498994827270508
+
+Time taken to receive the message : 1.5679104328155518
+URL https://www.baidu.com 1588148293.0551925
+Time taken by proxy to respond: 1.2228813171386719
+
+Time taken to receive the message : 1.9069030284881592
+URL https://www.baidu.com 1588148297.45611
+Time taken by proxy to respond: 1.1358122825622559
+
+Time taken to receive the message : 1.4369049072265625
+URL https://www.baidu.com 1588148301.1974936
+Time taken by proxy to respond: 1.2016091346740723
+
+Time taken to receive the message : 4.087287187576294
+URL https://www.baidu.com 1588148305.4034383
+Time taken by proxy to respond: 1.103177785873413
+
+Time taken to receive the message : 2.5224480628967285
+URL https://www.baidu.com 1588148313.3454733
+Time taken by proxy to respond: 1.4779257774353027
+
+Time taken to receive the message : 1.9426825046539307
+URL https://www.baidu.com 1588148327.6392856
+Time taken by proxy to respond: 1.1097066402435303
+
+Time taken to receive the message : 4.530423641204834
+URL https://www.baidu.com 1588148333.4198692
+Time taken by proxy to respond: 1.347278356552124
+
+Time taken to receive the message : 1.836242914199829
+URL https://www.baidu.com 1588148350.165632
+Time taken by proxy to respond: 1.459437608718872
+
+Time taken to receive the message : 4.473530292510986
+URL https://www.baidu.com 1588148351.6104164
+Time taken by proxy to respond: 1.5989558696746826
+
+Time taken to receive the message : 3.1133859157562256
+URL https://www.baidu.com 1588148355.6434424
+Time taken by proxy to respond: 1.1244730949401855
+
+Time taken to receive the message : 2.0122365951538086
+URL https://www.baidu.com 1588148358.9791005
+Time taken by proxy to respond: 1.3797388076782227
+
+Time taken to receive the message : 2.3737871646881104
+URL https://www.baidu.com 1588148361.1145627
+Time taken by proxy to respond: 1.2707858085632324
+
+Time taken to receive the message : 1.8325316905975342
+URL https://www.baidu.com 1588148364.5733426
+Time taken by proxy to respond: 1.5694408416748047
+
+Time taken to receive the message : 3.2860872745513916
+URL https://www.baidu.com 1588148365.7641697
+Time taken by proxy to respond: 1.194329023361206
+
+Time taken to receive the message : 2.000596284866333
+URL https://www.baidu.com 1588148369.313637
+Time taken by proxy to respond: 1.3570895195007324
+
+Time taken to receive the message : 2.6157052516937256
+URL https://www.baidu.com 1588148371.7042499
+Time taken by proxy to respond: 1.6020433902740479
+
+Time taken to receive the message : 2.4199414253234863
+URL https://www.baidu.com 1588148374.5776765
+Time taken by proxy to respond: 1.2937121391296387
+
+Time taken to receive the message : 2.659287929534912
+URL https://www.baidu.com 1588148376.706754
+Time taken by proxy to respond: 1.2961537837982178
+
+Time taken to receive the message : 2.0022597312927246
+URL https://www.baidu.com 1588148382.1653602
+Time taken by proxy to respond: 1.1834814548492432
+
+Time taken to receive the message : 1.6753828525543213
+URL https://www.baidu.com 1588148386.793144
+Time taken by proxy to respond: 1.134467601776123
+
+Time taken to receive the message : 1.432267427444458
+URL https://www.baidu.com 1588148391.2769148
+Time taken by proxy to respond: 1.1212689876556396
+
+Time taken to receive the message : 2.208120346069336
+URL https://www.baidu.com 1588148395.5014555
+Time taken by proxy to respond: 1.1440904140472412
+
+Time taken to receive the message : 2.107516288757324
+URL https://www.baidu.com 1588148400.4929585
+Time taken by proxy to respond: 1.555366039276123
+
+Time taken to receive the message : 1.4943737983703613
+URL https://www.baidu.com 1588148406.0636747
+Time taken by proxy to respond: 1.1685771942138672
+
+Time taken to receive the message : 1.6976685523986816
+URL https://www.baidu.com 1588148422.8373249
+Time taken by proxy to respond: 1.211167812347412
+
+Time taken to receive the message : 2.6668472290039062
+URL https://www.baidu.com 1588148424.1575437
+Time taken by proxy to respond: 1.1766247749328613
+
+Time taken to receive the message : 1.739640474319458
+URL https://www.baidu.com 1588148429.2986104
+Time taken by proxy to respond: 1.1939752101898193
+
+Time taken to receive the message : 1.555398941040039
+URL https://www.baidu.com 1588148432.919391
+Time taken by proxy to respond: 1.4904334545135498
+
+Time taken to receive the message : 2.1574134826660156
+URL https://www.baidu.com 1588148437.3224351
+Time taken by proxy to respond: 1.5384089946746826
+
+Time taken to receive the message : 1.9034302234649658
+URL https://www.baidu.com 1588148442.10322
+Time taken by proxy to respond: 1.4892995357513428
+
+Time taken to receive the message : 1.5583908557891846
+URL https://www.baidu.com 1588148446.7280722
+Time taken by proxy to respond: 1.3831911087036133
+
+Time taken to receive the message : 1.8379180431365967
+URL https://www.baidu.com 1588148462.6295815
+Time taken by proxy to respond: 1.4505455493927002
+
+Time taken to receive the message : 1.7188775539398193
+URL https://www.baidu.com 1588148468.174442
+Time taken by proxy to respond: 1.4610321521759033
+
+Time taken to receive the message : 1.8818151950836182
+URL https://www.baidu.com 1588148472.4632576
+Time taken by proxy to respond: 1.1503171920776367
+
+Time taken to receive the message : 1.9975848197937012
+URL https://www.baidu.com 1588148489.2678912
+Time taken by proxy to respond: 1.5006330013275146
+
+Time taken to receive the message : 2.967278242111206
+URL https://www.baidu.com 1588148490.8765035
+Time taken by proxy to respond: 1.6369831562042236
+
+Time taken to receive the message : 2.3396449089050293
+URL https://www.baidu.com 1588148494.2266805
+Time taken by proxy to respond: 1.6354327201843262
+
+Time taken to receive the message : 2.41762375831604
+URL https://www.baidu.com 1588148496.9037914
+Time taken by proxy to respond: 1.148406744003296
+
+Time taken to receive the message : 2.479750394821167
+URL https://www.baidu.com 1588148499.0713484
+Time taken by proxy to respond: 1.1176748275756836
+
+Time taken to receive the message : 2.363095283508301
+URL https://www.baidu.com 1588148501.4348311
+Time taken by proxy to respond: 1.2693803310394287
+
+Time taken to receive the message : 2.5278565883636475
+URL https://www.baidu.com 1588148503.6575656
+Time taken by proxy to respond: 1.1886835098266602
+
+Time taken to receive the message : 2.6732065677642822
+URL https://www.baidu.com 1588148505.8253167
+Time taken by proxy to respond: 1.1179423332214355
+
+Time taken to receive the message : 2.496757745742798
+URL https://www.baidu.com 1588148508.197408
+Time taken by proxy to respond: 1.1944530010223389
+
+Time taken to receive the message : 1.6476209163665771
+URL https://www.sohu.com 1588148511.3630571
+Time taken by proxy to respond: 2.9916794300079346
+
+Time taken to receive the message : 4.6945250034332275
+URL https://www.sohu.com 1588148512.3992286
+Time taken by proxy to respond: 1.6747210025787354
+
+Time taken to receive the message : 2.1098928451538086
+URL https://www.sohu.com 1588148517.778724
+Time taken by proxy to respond: 1.7541611194610596
+
+Time taken to receive the message : 2.903386354446411
+URL https://www.sohu.com 1588148519.8611534
+Time taken by proxy to respond: 1.8204917907714844
+
+Time taken to receive the message : 2.7329139709472656
+URL https://www.sohu.com 1588148522.9783518
+Time taken by proxy to respond: 1.774862289428711
+
+Time taken to receive the message : 2.416762590408325
+URL https://www.sohu.com 1588148526.278412
+Time taken by proxy to respond: 1.807462453842163
+
+Time taken to receive the message : 2.710218667984009
+URL https://www.sohu.com 1588148528.9138267
+Time taken by proxy to respond: 1.9413442611694336
+
+Time taken to receive the message : 2.592292308807373
+URL https://www.sohu.com 1588148532.060189
+Time taken by proxy to respond: 1.7102038860321045
+
+Time taken to receive the message : 2.398967981338501
+URL https://www.sohu.com 1588148535.0691657
+Time taken by proxy to respond: 1.8211431503295898
+
+Time taken to receive the message : 2.9778172969818115
+URL https://www.sohu.com 1588148537.3963246
+Time taken by proxy to respond: 1.8120450973510742
+
+Time taken to receive the message : 2.4691808223724365
+URL https://www.sohu.com 1588148540.8359053
+Time taken by proxy to respond: 2.1049389839172363
+
+Time taken to receive the message : 2.316941738128662
+URL https://www.sohu.com 1588148544.214414
+Time taken by proxy to respond: 1.5962638854980469
+
+Time taken to receive the message : 2.849677085876465
+URL https://www.sohu.com 1588148546.3993437
+Time taken by proxy to respond: 1.7084321975708008
+
+Time taken to receive the message : 2.691438913345337
+URL https://www.sohu.com 1588148549.641513
+Time taken by proxy to respond: 2.0315613746643066
+
+Time taken to receive the message : 2.8619742393493652
+URL https://www.sohu.com 1588148552.621845
+Time taken by proxy to respond: 1.8844716548919678
+
+Time taken to receive the message : 2.4492921829223633
+URL https://www.sohu.com 1588148556.0203326
+Time taken by proxy to respond: 1.8871026039123535
+
+Time taken to receive the message : 3.1591930389404297
+URL https://www.sohu.com 1588148558.2848535
+Time taken by proxy to respond: 2.228214740753174
+
+Time taken to receive the message : 3.0640976428985596
+URL https://www.sohu.com 1588148561.7041144
+Time taken by proxy to respond: 1.6523187160491943
+
+Time taken to receive the message : 2.188936471939087
+URL https://www.sohu.com 1588148567.555536
+Time taken by proxy to respond: 1.6634461879730225
+
+Time taken to receive the message : 1.3357470035552979
+URL https://www.sohu.com 1588148573.334455
+Time taken by proxy to respond: 2.1952497959136963
+
+Time taken to receive the message : 2.2290124893188477
+URL https://www.sohu.com 1588148577.5858798
+Time taken by proxy to respond: 1.6792731285095215
+
+Time taken to receive the message : 2.107661008834839
+URL https://www.sohu.com 1588148582.7574978
+Time taken by proxy to respond: 1.7078094482421875
+
+Time taken to receive the message : 3.1036574840545654
+URL https://www.sohu.com 1588148588.7131436
+Time taken by proxy to respond: 1.6871483325958252
+
+Time taken to receive the message : 5.672642230987549
+URL https://www.sohu.com 1588148594.6757894
+Time taken by proxy to respond: 1.6809406280517578
+
+Time taken to receive the message : 1.8645336627960205
+URL https://www.sohu.com 1588148615.6985042
+Time taken by proxy to respond: 1.9824037551879883
+
+Time taken to receive the message : 3.632551431655884
+URL https://www.sohu.com 1588148617.0423336
+Time taken by proxy to respond: 2.2351343631744385
+
+Time taken to receive the message : 2.9804844856262207
+URL https://www.sohu.com 1588148621.0526443
+Time taken by proxy to respond: 1.859642744064331
+
+Time taken to receive the message : 3.0937869548797607
+URL https://www.sohu.com 1588148623.924702
+Time taken by proxy to respond: 2.297973871231079
+
+Time taken to receive the message : 3.2293202877044678
+URL https://www.sohu.com 1588148627.178013
+Time taken by proxy to respond: 1.7329747676849365
+
+Time taken to receive the message : 2.4759812355041504
+URL https://www.sohu.com 1588148641.2846043
+Time taken by proxy to respond: 2.5265655517578125
+
+Time taken to receive the message : 1.5647027492523193
+URL https://www.sohu.com 1588148647.5822735
+Time taken by proxy to respond: 2.1435327529907227
+
+Time taken to receive the message : 1.7888782024383545
+URL https://www.sohu.com 1588148651.9477894
+Time taken by proxy to respond: 2.425546884536743
+
+Time taken to receive the message : 1.842010498046875
+URL https://www.sohu.com 1588148657.1022167
+Time taken by proxy to respond: 1.7413454055786133
+
+Time taken to receive the message : 1.6115057468414307
+URL https://www.sohu.com 1588148662.5978694
+Time taken by proxy to respond: 1.8966248035430908
+
+Time taken to receive the message : 1.3854122161865234
+URL https://www.sohu.com 1588148667.0993931
+Time taken by proxy to respond: 1.8199493885040283
+
+Time taken to receive the message : 2.4001264572143555
+URL https://www.sohu.com 1588148671.3614042
+Time taken by proxy to respond: 2.3396971225738525
+
+Time taken to receive the message : 1.584346055984497
+URL https://www.sohu.com 1588148677.7590125
+Time taken by proxy to respond: 2.021660089492798
+
+Time taken to receive the message : 1.5605359077453613
+URL https://www.sohu.com 1588148683.144495
+Time taken by proxy to respond: 2.0862057209014893
+
+Time taken to receive the message : 2.0233731269836426
+URL https://www.sohu.com 1588148700.1661263
+Time taken by proxy to respond: 2.621682643890381
+
+Time taken to receive the message : 4.449753522872925
+URL https://www.sohu.com 1588148701.4977396
+Time taken by proxy to respond: 2.7869839668273926
+
+Time taken to receive the message : 2.8770594596862793
+URL https://www.sohu.com 1588148706.9903553
+Time taken by proxy to respond: 2.134114980697632
+
+Time taken to receive the message : 2.705242156982422
+URL https://www.sohu.com 1588148710.3928118
+Time taken by proxy to respond: 1.7608683109283447
+
+Time taken to receive the message : 2.2250118255615234
+URL https://www.sohu.com 1588148713.774413
+Time taken by proxy to respond: 1.9112491607666016
+
+Time taken to receive the message : 2.49519419670105
+URL https://www.sohu.com 1588148716.5486047
+Time taken by proxy to respond: 2.2815656661987305
+
+Time taken to receive the message : 2.239489793777466
+URL https://www.sohu.com 1588148720.2222292
+Time taken by proxy to respond: 2.08380389213562
+
+Time taken to receive the message : 2.9620871543884277
+URL https://www.sohu.com 1588148722.7305079
+Time taken by proxy to respond: 1.9640140533447266
+
+Time taken to receive the message : 2.647691011428833
+URL https://www.sohu.com 1588148726.0956638
+Time taken by proxy to respond: 1.802466869354248
+
+Time taken to receive the message : 2.236989736557007
+URL https://www.sohu.com 1588148729.4018042
+Time taken by proxy to respond: 2.2585840225219727
+
+Time taken to receive the message : 3.132223129272461
+URL https://www.sohu.com 1588148731.8780844
+Time taken by proxy to respond: 1.6482107639312744
+
+Time taken to receive the message : 3.261963367462158
+URL https://www.qq.com 1588148734.49182
+Time taken by proxy to respond: 2.1257708072662354
+
+Time taken to receive the message : 3.4014878273010254
+URL https://www.qq.com 1588148737.5727458
+Time taken by proxy to respond: 2.264822006225586
+
+Time taken to receive the message : 1.5787806510925293
+URL https://www.qq.com 1588148742.7832153
+Time taken by proxy to respond: 1.9428777694702148
+
+Time taken to receive the message : 3.401992082595825
+URL https://www.qq.com 1588148744.0444362
+Time taken by proxy to respond: 2.1385769844055176
+
+Time taken to receive the message : 3.0346860885620117
+URL https://www.qq.com 1588148747.6865215
+Time taken by proxy to respond: 1.811833381652832
+
+Time taken to receive the message : 2.6329102516174316
+URL https://www.qq.com 1588148751.0379264
+Time taken by proxy to respond: 1.963118553161621
+
+Time taken to receive the message : 4.131714582443237
+URL https://www.qq.com 1588148753.1955597
+Time taken by proxy to respond: 1.9567272663116455
+
+Time taken to receive the message : 2.3746731281280518
+URL https://www.qq.com 1588148758.0068297
+Time taken by proxy to respond: 1.9177017211914062
+
+Time taken to receive the message : 2.8446273803710938
+URL https://www.qq.com 1588148760.5654082
+Time taken by proxy to respond: 1.9062201976776123
+
+Time taken to receive the message : 2.5790202617645264
+URL https://www.qq.com 1588148763.8732288
+Time taken by proxy to respond: 1.7600154876708984
+
+Time taken to receive the message : 3.103261947631836
+URL https://www.qq.com 1588148766.2055202
+Time taken by proxy to respond: 1.829899787902832
+
+Time taken to receive the message : 2.576033353805542
+URL https://www.qq.com 1588148769.6736302
+Time taken by proxy to respond: 1.8320720195770264
+
+Time taken to receive the message : 2.751239538192749
+URL https://www.qq.com 1588148772.448561
+Time taken by proxy to respond: 1.8695311546325684
+
+Time taken to receive the message : 3.4837913513183594
+URL https://www.qq.com 1588148774.742686
+Time taken by proxy to respond: 1.9196538925170898
+
+Time taken to receive the message : 3.1583080291748047
+URL https://www.qq.com 1588148778.1239321
+Time taken by proxy to respond: 1.8762385845184326
+
+Time taken to receive the message : 3.1030588150024414
+URL https://www.qq.com 1588148781.4796014
+Time taken by proxy to respond: 2.1247711181640625
+
+Time taken to receive the message : 2.53790545463562
+URL https://www.qq.com 1588148785.3205016
+Time taken by proxy to respond: 2.0417792797088623
+
+Time taken to receive the message : 2.614495038986206
+URL https://www.qq.com 1588148788.444615
+Time taken by proxy to respond: 1.934910774230957
+
+Time taken to receive the message : 2.424164056777954
+URL https://www.qq.com 1588148791.711439
+Time taken by proxy to respond: 1.7895822525024414
+
+Time taken to receive the message : 3.0119917392730713
+URL https://www.qq.com 1588148794.0124135
+Time taken by proxy to respond: 2.3050718307495117
+
+Time taken to receive the message : 2.776625633239746
+URL https://www.qq.com 1588148797.6511447
+Time taken by proxy to respond: 2.5071499347686768
+
+Time taken to receive the message : 2.9580817222595215
+URL https://www.qq.com 1588148801.074731
+Time taken by proxy to respond: 1.9703395366668701
+
+Time taken to receive the message : 1.6660666465759277
+URL https://www.qq.com 1588148805.4347672
+Time taken by proxy to respond: 2.316453695297241
+
+Time taken to receive the message : 3.9727296829223633
+URL https://www.qq.com 1588148806.5776074
+Time taken by proxy to respond: 1.8763928413391113
+
+Time taken to receive the message : 3.334266185760498
+URL https://www.qq.com 1588148810.2869334
+Time taken by proxy to respond: 1.8767662048339844
+
+Time taken to receive the message : 2.7111997604370117
+URL https://www.qq.com 1588148813.9629734
+Time taken by proxy to respond: 2.424281358718872
+
+Time taken to receive the message : 3.134695291519165
+URL https://www.qq.com 1588148817.0657873
+Time taken by proxy to respond: 2.0915629863739014
+
+Time taken to receive the message : 2.6913294792175293
+URL https://www.qq.com 1588148823.5841196
+Time taken by proxy to respond: 2.455950975418091
+
+Time taken to receive the message : 2.050877809524536
+URL https://www.qq.com 1588148830.8292897
+Time taken by proxy to respond: 2.5223262310028076
+
+Time taken to receive the message : 2.0879721641540527
+URL https://www.qq.com 1588148837.3755958
+Time taken by proxy to respond: 2.474609375
+
+Time taken to receive the message : 1.5300686359405518
+URL https://www.qq.com 1588148844.095285
+Time taken by proxy to respond: 1.8381733894348145
+
+Time taken to receive the message : 2.516186237335205
+URL https://www.qq.com 1588148848.435713
+Time taken by proxy to respond: 1.9101085662841797
+
+Time taken to receive the message : 1.7899272441864014
+URL https://www.qq.com 1588148853.8473487
+Time taken by proxy to respond: 1.9184927940368652
+
+Time taken to receive the message : 2.3782730102539062
+URL https://www.qq.com 1588148858.5385144
+Time taken by proxy to respond: 2.1296920776367188
+
+Time taken to receive the message : 1.9956507682800293
+URL https://www.qq.com 1588148864.9352775
+Time taken by proxy to respond: 1.992072582244873
+
+Time taken to receive the message : 1.7219045162200928
+URL https://www.qq.com 1588148870.473053
+Time taken by proxy to respond: 1.9938623905181885
+
+Time taken to receive the message : 1.5724785327911377
+URL https://www.qq.com 1588148875.1906738
+Time taken by proxy to respond: 1.9814608097076416
+
+Time taken to receive the message : 2.6857032775878906
+URL https://www.qq.com 1588148886.0351894
+Time taken by proxy to respond: 2.193528890609741
+
+Time taken to receive the message : 1.856076955795288
+URL https://www.qq.com 1588148892.26529
+Time taken by proxy to respond: 2.1679131984710693
+
+Time taken to receive the message : 1.9128992557525635
+URL https://www.qq.com 1588148897.8874378
+Time taken by proxy to respond: 2.1501622200012207
+
+Time taken to receive the message : 2.1078028678894043
+URL https://www.qq.com 1588148903.3784385
+Time taken by proxy to respond: 1.998880386352539
+
+Time taken to receive the message : 2.4403293132781982
+URL https://www.qq.com 1588148908.980863
+Time taken by proxy to respond: 2.048435926437378
+
+Time taken to receive the message : 2.801985740661621
+URL https://www.qq.com 1588148915.1117463
+Time taken by proxy to respond: 2.081678628921509
+
+Time taken to receive the message : 1.9428637027740479
+URL https://www.qq.com 1588148921.5803738
+Time taken by proxy to respond: 1.6632165908813477
+
+Time taken to receive the message : 2.946514368057251
+URL https://www.qq.com 1588148926.1497207
+Time taken by proxy to respond: 1.6725335121154785
+
+Time taken to receive the message : 1.7099006175994873
+URL https://www.qq.com 1588148932.6454885
+Time taken by proxy to respond: 2.1886799335479736
+
+Time taken to receive the message : 2.5503945350646973
+URL https://www.qq.com 1588148937.3071423
+Time taken by proxy to respond: 2.080057144165039
+
+Time taken to receive the message : 1.2810125350952148
+URL https://www.qq.com 1588148943.7581913
+Time taken by proxy to respond: 1.8986237049102783
+
+Time taken to receive the message : 1.4186336994171143
+URL https://www.qq.com 1588148948.0185041
+Time taken by proxy to respond: 1.9444761276245117
+
+Time taken to receive the message : 1.6854462623596191
+URL https://www.login.tmall.com 1588148965.003672
+Time taken by proxy to respond: 0.9442939758300781
+
+Time taken to receive the message : 2.877507209777832
+URL https://www.login.tmall.com 1588148966.3751352
+Time taken by proxy to respond: 0.7986643314361572
+
+Time taken to receive the message : 2.2875876426696777
+URL https://www.login.tmall.com 1588148968.9196875
+Time taken by proxy to respond: 0.7648744583129883
+
+Time taken to receive the message : 1.3541879653930664
+URL https://www.login.tmall.com 1588148971.962964
+Time taken by proxy to respond: 0.7780201435089111
+
+Time taken to receive the message : 1.3617784976959229
+URL https://www.login.tmall.com 1588148974.0320468
+Time taken by proxy to respond: 0.7257504463195801
+
+Time taken to receive the message : 2.0884411334991455
+URL https://www.login.tmall.com 1588148975.1320093
+Time taken by proxy to respond: 0.9011971950531006
+
+Time taken to receive the message : 1.807809591293335
+URL https://www.login.tmall.com 1588148977.414516
+Time taken by proxy to respond: 1.219031810760498
+
+Time taken to receive the message : 2.3142404556274414
+URL https://www.login.tmall.com 1588148979.855683
+Time taken by proxy to respond: 1.0058515071868896
+
+Time taken to receive the message : 2.878293752670288
+URL https://www.login.tmall.com 1588148981.4117167
+Time taken by proxy to respond: 0.9508683681488037
+
+Time taken to receive the message : 2.6425845623016357
+URL https://www.login.tmall.com 1588148984.3568354
+Time taken by proxy to respond: 0.8116855621337891
+
+Time taken to receive the message : 2.868771553039551
+URL https://www.login.tmall.com 1588148986.0548987
+Time taken by proxy to respond: 1.1347734928131104
+
+Time taken to receive the message : 1.5211331844329834
+URL https://www.login.tmall.com 1588148989.6802175
+Time taken by proxy to respond: 0.8307592868804932
+
+Time taken to receive the message : 2.3237040042877197
+URL https://www.login.tmall.com 1588148990.8613524
+Time taken by proxy to respond: 0.8605091571807861
+
+Time taken to receive the message : 2.630779981613159
+URL https://www.login.tmall.com 1588148993.5558112
+Time taken by proxy to respond: 0.8562769889831543
+
+Time taken to receive the message : 2.7697975635528564
+URL https://www.login.tmall.com 1588148995.385059
+Time taken by proxy to respond: 1.1094207763671875
+
+Time taken to receive the message : 2.483285665512085
+URL https://www.login.tmall.com 1588148998.9113843
+Time taken by proxy to respond: 0.8549396991729736
+
+Time taken to receive the message : 2.499765157699585
+URL https://www.login.tmall.com 1588149000.8630767
+Time taken by proxy to respond: 1.180394172668457
+
+Time taken to receive the message : 2.466951370239258
+URL https://www.login.tmall.com 1588149003.1905594
+Time taken by proxy to respond: 1.3250935077667236
+
+Time taken to receive the message : 3.1130895614624023
+URL https://www.login.tmall.com 1588149005.9076624
+Time taken by proxy to respond: 0.8343312740325928
+
+Time taken to receive the message : 1.2499122619628906
+URL https://www.login.tmall.com 1588149009.7612386
+Time taken by proxy to respond: 0.868523359298706
+
+Time taken to receive the message : 2.281501531600952
+URL https://www.login.tmall.com 1588149010.702247
+Time taken by proxy to respond: 1.4161016941070557
+
+Time taken to receive the message : 2.772134304046631
+URL https://www.login.tmall.com 1588149012.7448814
+Time taken by proxy to respond: 1.307074785232544
+
+Time taken to receive the message : 3.000703811645508
+URL https://www.login.tmall.com 1588149014.9300618
+Time taken by proxy to respond: 1.3446376323699951
+
+Time taken to receive the message : 2.2365541458129883
+URL https://www.login.tmall.com 1588149018.2538073
+Time taken by proxy to respond: 1.1249301433563232
+
+Time taken to receive the message : 2.3894762992858887
+URL https://www.login.tmall.com 1588149020.3306286
+Time taken by proxy to respond: 1.4233253002166748
+
+Time taken to receive the message : 2.8771631717681885
+URL https://www.login.tmall.com 1588149022.4179828
+Time taken by proxy to respond: 0.8253908157348633
+
+Time taken to receive the message : 1.599158525466919
+URL https://www.login.tmall.com 1588149025.6392834
+Time taken by proxy to respond: 0.8304002285003662
+
+Time taken to receive the message : 2.5011277198791504
+URL https://www.login.tmall.com 1588149027.8713288
+Time taken by proxy to respond: 0.8355238437652588
+
+Time taken to receive the message : 2.313997983932495
+URL https://www.login.tmall.com 1588149030.017144
+Time taken by proxy to respond: 0.9008846282958984
+
+Time taken to receive the message : 1.5921385288238525
+URL https://www.login.tmall.com 1588149032.7822952
+Time taken by proxy to respond: 0.8740122318267822
+
+Time taken to receive the message : 2.3701510429382324
+URL https://www.login.tmall.com 1588149033.9869134
+Time taken by proxy to respond: 0.8027389049530029
+
+Time taken to receive the message : 2.0845704078674316
+URL https://www.login.tmall.com 1588149036.2164948
+Time taken by proxy to respond: 0.8524360656738281
+
+Time taken to receive the message : 2.5705513954162598
+URL https://www.login.tmall.com 1588149038.829022
+Time taken by proxy to respond: 1.3822507858276367
+
+Time taken to receive the message : 3.527338743209839
+URL https://www.login.tmall.com 1588149040.4119632
+Time taken by proxy to respond: 1.385596513748169
+
+Time taken to receive the message : 2.490762710571289
+URL https://www.login.tmall.com 1588149044.5428014
+Time taken by proxy to respond: 0.8484845161437988
+
+Time taken to receive the message : 1.6945459842681885
+URL https://www.login.tmall.com 1588149047.339516
+Time taken by proxy to respond: 0.9371881484985352
+
+Time taken to receive the message : 2.6073062419891357
+URL https://www.login.tmall.com 1588149048.4911718
+Time taken by proxy to respond: 0.8414685726165771
+
+Time taken to receive the message : 2.294217586517334
+URL https://www.login.tmall.com 1588149050.7918267
+Time taken by proxy to respond: 0.8302292823791504
+
+Time taken to receive the message : 2.0312111377716064
+URL https://www.login.tmall.com 1588149052.995543
+Time taken by proxy to respond: 0.8387496471405029
+
+Time taken to receive the message : 1.7842519283294678
+URL https://www.login.tmall.com 1588149055.2353988
+Time taken by proxy to respond: 0.8514246940612793
+
+Time taken to receive the message : 2.574392795562744
+URL https://www.login.tmall.com 1588149056.4143183
+Time taken by proxy to respond: 0.8746652603149414
+
+Time taken to receive the message : 2.4409658908843994
+URL https://www.login.tmall.com 1588149058.5756812
+Time taken by proxy to respond: 0.7968113422393799
+
+Time taken to receive the message : 2.254866600036621
+URL https://www.login.tmall.com 1588149060.671505
+Time taken by proxy to respond: 0.8181209564208984
+
+Time taken to receive the message : 2.040586233139038
+URL https://www.login.tmall.com 1588149062.8472414
+Time taken by proxy to respond: 1.0459401607513428
+
+Time taken to receive the message : 1.9867792129516602
+URL https://www.login.tmall.com 1588149065.0689752
+Time taken by proxy to respond: 0.8464312553405762
+
+Time taken to receive the message : 2.4174368381500244
+URL https://www.login.tmall.com 1588149066.6588345
+Time taken by proxy to respond: 0.8739409446716309
+
+Time taken to receive the message : 2.2596569061279297
+URL https://www.login.tmall.com 1588149069.4096503
+Time taken by proxy to respond: 1.5248956680297852
+
+Time taken to receive the message : 3.42453932762146
+URL https://www.login.tmall.com 1588149070.8869512
+Time taken by proxy to respond: 0.8961644172668457
+
+Time taken to receive the message : 1.6289563179016113
+URL https://www.login.tmall.com 1588149074.8245292
+Time taken by proxy to respond: 1.0546870231628418
+
+Time taken to receive the message : 2.491342544555664
+URL https://www.taobao.com 1588149076.1324282
+Time taken by proxy to respond: 4.79675817489624
+
+Time taken to receive the message : 6.232072591781616
+URL https://www.taobao.com 1588149078.324195
+Time taken by proxy to respond: 2.767895460128784
+
+Time taken to receive the message : 4.043210029602051
+URL https://www.taobao.com 1588149084.3988855
+Time taken by proxy to respond: 2.7091007232666016
+
+Time taken to receive the message : 2.9835729598999023
+URL https://www.taobao.com 1588149089.3122783
+Time taken by proxy to respond: 2.968790054321289
+
+Time taken to receive the message : 4.307401418685913
+URL https://www.taobao.com 1588149092.0695872
+Time taken by proxy to respond: 2.327281951904297
+
+Time taken to receive the message : 3.328657865524292
+URL https://www.taobao.com 1588149096.5447233
+Time taken by proxy to respond: 2.4973039627075195
+
+Time taken to receive the message : 3.3037984371185303
+URL https://www.taobao.com 1588149100.2070684
+Time taken by proxy to respond: 2.6639304161071777
+
+Time taken to receive the message : 3.9366750717163086
+URL https://www.taobao.com 1588149103.3561025
+Time taken by proxy to respond: 3.180219888687134
+
+Time taken to receive the message : 3.820915699005127
+URL https://www.taobao.com 1588149108.0226789
+Time taken by proxy to respond: 2.6001360416412354
+
+Time taken to receive the message : 3.3680503368377686
+URL https://www.taobao.com 1588149112.2138972
+Time taken by proxy to respond: 2.588474988937378
+
+Time taken to receive the message : 3.2066917419433594
+URL https://www.taobao.com 1588149116.1185005
+Time taken by proxy to respond: 2.354613780975342
+
+Time taken to receive the message : 4.010848045349121
+URL https://www.taobao.com 1588149118.7904468
+Time taken by proxy to respond: 2.684821605682373
+
+Time taken to receive the message : 3.184098958969116
+URL https://www.taobao.com 1588149123.4311557
+Time taken by proxy to respond: 2.5508978366851807
+
+Time taken to receive the message : 3.1363179683685303
+URL https://www.taobao.com 1588149127.15104
+Time taken by proxy to respond: 2.6235408782958984
+
+Time taken to receive the message : 3.190213680267334
+URL https://www.taobao.com 1588149130.8454416
+Time taken by proxy to respond: 2.4137327671051025
+
+Time taken to receive the message : 3.2659106254577637
+URL https://www.taobao.com 1588149134.325734
+Time taken by proxy to respond: 2.330204486846924
+
+Time taken to receive the message : 3.4433634281158447
+URL https://www.taobao.com 1588149137.8251631
+Time taken by proxy to respond: 2.3542003631591797
+
+Time taken to receive the message : 3.7727386951446533
+URL https://www.taobao.com 1588149140.9785225
+Time taken by proxy to respond: 3.7054367065429688
+
+Time taken to receive the message : 4.1047070026397705
+URL https://www.taobao.com 1588149145.5118866
+Time taken by proxy to respond: 3.6554293632507324
+
+Time taken to receive the message : 5.130383014678955
+URL https://www.taobao.com 1588149149.3761497
+Time taken by proxy to respond: 4.271560907363892
+
+Time taken to receive the message : 4.899857759475708
+URL https://www.taobao.com 1588149155.1382997
+Time taken by proxy to respond: 3.7319440841674805
+
+Time taken to receive the message : 4.467746019363403
+URL https://www.taobao.com 1588149160.4272661
+Time taken by proxy to respond: 3.8449463844299316
+
+Time taken to receive the message : 4.8170154094696045
+URL https://www.taobao.com 1588149165.0480433
+Time taken by proxy to respond: 3.1677029132843018
+
+Time taken to receive the message : 3.7157368659973145
+URL https://www.taobao.com 1588149170.4628868
+Time taken by proxy to respond: 3.3097751140594482
+
+Time taken to receive the message : 4.2315003871917725
+URL https://www.taobao.com 1588149174.4173813
+Time taken by proxy to respond: 3.507905960083008
+
+Time taken to receive the message : 5.289805173873901
+URL https://www.taobao.com 1588149178.0272722
+Time taken by proxy to respond: 3.771874189376831
+
+Time taken to receive the message : 4.860395908355713
+URL https://www.taobao.com 1588149183.374319
+Time taken by proxy to respond: 3.340045928955078
+
+Time taken to receive the message : 3.457179546356201
+URL https://www.taobao.com 1588149189.27543
+Time taken by proxy to respond: 3.9015932083129883
+
+Time taken to receive the message : 5.142646074295044
+URL https://www.taobao.com 1588149192.6360295
+Time taken by proxy to respond: 3.141695499420166
+
+Time taken to receive the message : 1.8872833251953125
+URL https://www.taobao.com 1588149202.556647
+Time taken by proxy to respond: 5.23143458366394
+
+Time taken to receive the message : 1.5758302211761475
+URL https://www.taobao.com 1588149210.5726519
+Time taken by proxy to respond: 3.1664230823516846
+
+Time taken to receive the message : 2.1940996646881104
+URL https://www.taobao.com 1588149227.7897508
+Time taken by proxy to respond: 3.380532741546631
+
+Time taken to receive the message : 5.154891014099121
+URL https://www.taobao.com 1588149229.3577468
+Time taken by proxy to respond: 3.199563503265381
+
+Time taken to receive the message : 3.5104784965515137
+URL https://www.taobao.com 1588149235.3319526
+Time taken by proxy to respond: 3.477207660675049
+
+Time taken to receive the message : 5.081390857696533
+URL https://www.taobao.com 1588149238.5047147
+Time taken by proxy to respond: 3.105863332748413
+
+Time taken to receive the message : 4.4605042934417725
+URL https://www.taobao.com 1588149243.357406
+Time taken by proxy to respond: 5.109713792800903
+
+Time taken to receive the message : 5.7711875438690186
+URL https://www.taobao.com 1588149248.2863863
+Time taken by proxy to respond: 3.2945785522460938
+
+Time taken to receive the message : 4.208571672439575
+URL https://www.taobao.com 1588149254.2791224
+Time taken by proxy to respond: 3.7625796794891357
+
+Time taken to receive the message : 4.664714574813843
+URL https://www.taobao.com 1588149258.7099993
+Time taken by proxy to respond: 3.044523239135742
+
+Time taken to receive the message : 3.8487181663513184
+URL https://www.taobao.com 1588149263.717325
+Time taken by proxy to respond: 3.7015931606292725
+
+Time taken to receive the message : 4.361356258392334
+URL https://www.taobao.com 1588149268.047123
+Time taken by proxy to respond: 3.469292163848877
+
+Time taken to receive the message : 3.0563437938690186
+URL https://www.taobao.com 1588149277.0635774
+Time taken by proxy to respond: 4.6597511768341064
+
+Time taken to receive the message : 1.8908209800720215
+URL https://www.taobao.com 1588149286.2974644
+Time taken by proxy to respond: 4.6261796951293945
+
+Time taken to receive the message : 3.1845927238464355
+URL https://www.taobao.com 1588149294.0326037
+Time taken by proxy to respond: 3.0696136951446533
+
+Time taken to receive the message : 1.5506961345672607
+URL https://www.taobao.com 1588149301.900594
+Time taken by proxy to respond: 3.0208537578582764
+
+Time taken to receive the message : 1.9964842796325684
+URL https://www.taobao.com 1588149307.461132
+Time taken by proxy to respond: 2.86057448387146
+
+Time taken to receive the message : 1.5971479415893555
+URL https://www.taobao.com 1588149314.5584304
+Time taken by proxy to respond: 3.344296932220459
+
+Time taken to receive the message : 1.5637822151184082
+URL https://www.taobao.com 1588149325.5642216
+Time taken by proxy to respond: 3.251394271850586
+
+Time taken to receive the message : 1.5831413269042969
+URL https://www.taobao.com 1588149332.1776457
+Time taken by proxy to respond: 3.149970293045044
+
+Time taken to receive the message : 1.803589105606079
+URL https://www.360.cn 1588149337.7184103
+Time taken by proxy to respond: 4.990975856781006
+
+Time taken to receive the message : 1.82729172706604
+URL https://www.360.cn 1588149345.6941116
+Time taken by proxy to respond: 4.544217586517334
+
+Time taken to receive the message : 2.1036837100982666
+URL https://www.360.cn 1588149353.3852382
+Time taken by proxy to respond: 3.784006118774414
+
+Time taken to receive the message : 1.596418857574463
+URL https://www.360.cn 1588149360.5737324
+Time taken by proxy to respond: 4.277841329574585
+
+Time taken to receive the message : 1.7242887020111084
+URL https://www.360.cn 1588149367.1410635
+Time taken by proxy to respond: 3.658399820327759
+
+Time taken to receive the message : 1.353346824645996
+URL https://www.360.cn 1588149375.0484831
+Time taken by proxy to respond: 4.649431943893433
+
+Time taken to receive the message : 2.977710008621216
+URL https://www.360.cn 1588149382.4714196
+Time taken by proxy to respond: 3.5706372261047363
+
+Time taken to receive the message : 1.549318552017212
+URL https://www.360.cn 1588149390.0785763
+Time taken by proxy to respond: 3.8033909797668457
+
+Time taken to receive the message : 2.619260311126709
+URL https://www.360.cn 1588149407.4842124
+Time taken by proxy to respond: 3.947662115097046
+
+Time taken to receive the message : 6.057653188705444
+URL https://www.360.cn 1588149409.1236465
+Time taken by proxy to respond: 3.3621981143951416
+
+Time taken to receive the message : 4.213211536407471
+URL https://www.360.cn 1588149415.4999752
+Time taken by proxy to respond: 3.1845650672912598
+
+Time taken to receive the message : 4.064031362533569
+URL https://www.360.cn 1588149420.0057776
+Time taken by proxy to respond: 2.9670255184173584
+
+Time taken to receive the message : 2.5920357704162598
+URL https://www.360.cn 1588149428.4225516
+Time taken by proxy to respond: 6.3890697956085205
+
+Time taken to receive the message : 1.6031134128570557
+URL https://www.360.cn 1588149439.8975437
+Time taken by proxy to respond: 4.042098760604858
+
+Time taken to receive the message : 2.103919744491577
+URL https://www.360.cn 1588149457.1565356
+Time taken by proxy to respond: 3.9129631519317627
+
+Time taken to receive the message : 4.698652744293213
+URL https://www.360.cn 1588149459.645916
+Time taken by proxy to respond: 5.473690509796143
+
+Time taken to receive the message : 6.132950067520142
+URL https://www.360.cn 1588149464.8198388
+Time taken by proxy to respond: 4.2767064571380615
+
+Time taken to receive the message : 4.800854206085205
+URL https://www.360.cn 1588149471.6018589
+Time taken by proxy to respond: 4.439136981964111
+
+Time taken to receive the message : 4.416514158248901
+URL https://www.360.cn 1588149477.5943434
+Time taken by proxy to respond: 4.350424766540527
+
+Time taken to receive the message : 5.302554368972778
+URL https://www.360.cn 1588149482.2271743
+Time taken by proxy to respond: 4.456202983856201
+
+Time taken to receive the message : 6.070155143737793
+URL https://www.360.cn 1588149487.057257
+Time taken by proxy to respond: 3.7607579231262207
+
+Time taken to receive the message : 4.321716785430908
+URL https://www.360.cn 1588149493.721937
+Time taken by proxy to respond: 3.2560763359069824
+
+Time taken to receive the message : 4.392157554626465
+URL https://www.360.cn 1588149498.0829365
+Time taken by proxy to respond: 3.5809109210968018
+
+Time taken to receive the message : 1.8557782173156738
+URL https://www.360.cn 1588149506.8226502
+Time taken by proxy to respond: 5.806341886520386
+
+Time taken to receive the message : 7.318444013595581
+URL https://www.360.cn 1588149508.3589296
+Time taken by proxy to respond: 2.902094841003418
+
+Time taken to receive the message : 4.384993076324463
+URL https://www.360.cn 1588149515.3225396
+Time taken by proxy to respond: 4.597874164581299
+
+Time taken to receive the message : 5.6200525760650635
+URL https://www.360.cn 1588149519.8407454
+Time taken by proxy to respond: 4.471707344055176
+
+Time taken to receive the message : 4.352378606796265
+URL https://www.360.cn 1588149526.7462869
+Time taken by proxy to respond: 4.218483209609985
+
+Time taken to receive the message : 5.171423673629761
+URL https://www.360.cn 1588149531.3192966
+Time taken by proxy to respond: 4.488126277923584
+
+Time taken to receive the message : 5.148969888687134
+URL https://www.360.cn 1588149536.9756148
+Time taken by proxy to respond: 7.053765773773193
+
+Time taken to receive the message : 7.67456316947937
+URL https://www.360.cn 1588149542.644461
+Time taken by proxy to respond: 3.624525308609009
+
+Time taken to receive the message : 4.770546197891235
+URL https://www.360.cn 1588149550.3181534
+Time taken by proxy to respond: 3.0491433143615723
+
+Time taken to receive the message : 3.2789008617401123
+URL https://www.360.cn 1588149556.0575087
+Time taken by proxy to respond: 3.654205560684204
+
+Time taken to receive the message : 4.891235589981079
+URL https://www.360.cn 1588149559.237375
+Time taken by proxy to respond: 4.908354997634888
+
+Time taken to receive the message : 5.3539934158325195
+URL https://www.360.cn 1588149564.8223658
+Time taken by proxy to respond: 4.433721542358398
+
+Time taken to receive the message : 4.942760705947876
+URL https://www.360.cn 1588149570.8675878
+Time taken by proxy to respond: 3.279527425765991
+
+Time taken to receive the message : 4.8435094356536865
+URL https://www.360.cn 1588149575.4220188
+Time taken by proxy to respond: 4.147798299789429
+
+Time taken to receive the message : 5.282874822616577
+URL https://www.360.cn 1588149580.2888687
+Time taken by proxy to respond: 4.07975697517395
+
+Time taken to receive the message : 4.743699312210083
+URL https://www.360.cn 1588149586.046386
+Time taken by proxy to respond: 8.738517045974731
+
+Time taken to receive the message : 9.215778827667236
+URL https://www.360.cn 1588149591.5149357
+Time taken by proxy to respond: 3.6078310012817383
+
+Time taken to receive the message : 4.953790903091431
+URL https://www.360.cn 1588149600.5573742
+Time taken by proxy to respond: 3.7227141857147217
+
+Time taken to receive the message : 5.415296316146851
+URL https://www.360.cn 1588149604.9535866
+Time taken by proxy to respond: 3.434436082839966
+
+Time taken to receive the message : 4.135458469390869
+URL https://www.360.cn 1588149610.8456595
+Time taken by proxy to respond: 4.063638210296631
+
+Time taken to receive the message : 5.444340944290161
+URL https://www.360.cn 1588149614.7758853
+Time taken by proxy to respond: 3.7014083862304688
+
+Time taken to receive the message : 4.840672969818115
+URL https://www.360.cn 1588149620.2434385
+Time taken by proxy to respond: 3.1185522079467773
+
+Time taken to receive the message : 3.3932952880859375
+URL https://www.360.cn 1588149625.98687
+Time taken by proxy to respond: 3.8662092685699463
+
+Time taken to receive the message : 5.068808317184448
+URL https://www.360.cn 1588149629.3175578
+Time taken by proxy to respond: 3.489208459854126
+
+Time taken to receive the message : 1.9181461334228516
+URL https://www.360.cn 1588149639.4396286
+Time taken by proxy to respond: 4.102184057235718
+
+Time taken to receive the message : 2.6158573627471924
+URL https://www.360.cn 1588149646.3032799
+Time taken by proxy to respond: 6.658351898193359
+
+Time taken to receive the message : 5.545347690582275
+URL https://www.wikipedia.org 1588149664.6571066
+Time taken by proxy to respond: 1.9275951385498047
+
+Time taken to receive the message : 3.394812822341919
+URL https://www.wikipedia.org 1588149669.8775554
+Time taken by proxy to respond: 1.3725488185882568
+
+Time taken to receive the message : 1.7490787506103516
+URL https://www.wikipedia.org 1588149674.6179473
+Time taken by proxy to respond: 1.27293062210083
+
+Time taken to receive the message : 2.7806832790374756
+URL https://www.wikipedia.org 1588149676.0597427
+Time taken by proxy to respond: 1.3241453170776367
+
+Time taken to receive the message : 2.9714040756225586
+URL https://www.wikipedia.org 1588149678.3301663
+Time taken by proxy to respond: 1.3024733066558838
+
+Time taken to receive the message : 2.09641432762146
+URL https://www.wikipedia.org 1588149681.6778922
+Time taken by proxy to respond: 1.334205150604248
+
+Time taken to receive the message : 2.0082180500030518
+URL https://www.wikipedia.org 1588149684.287776
+Time taken by proxy to respond: 1.3005623817443848
+
+Time taken to receive the message : 2.867795944213867
+URL https://www.wikipedia.org 1588149685.892195
+Time taken by proxy to respond: 1.4455077648162842
+
+Time taken to receive the message : 1.829512596130371
+URL https://www.wikipedia.org 1588149690.42217
+Time taken by proxy to respond: 1.294163703918457
+
+Time taken to receive the message : 2.7879128456115723
+URL https://www.wikipedia.org 1588149691.9624372
+Time taken by proxy to respond: 1.3434748649597168
+
+Time taken to receive the message : 3.041562080383301
+URL https://www.wikipedia.org 1588149694.2516696
+Time taken by proxy to respond: 1.3274240493774414
+
+Time taken to receive the message : 1.6859652996063232
+URL https://www.wikipedia.org 1588149699.1723158
+Time taken by proxy to respond: 1.3245244026184082
+
+Time taken to receive the message : 2.7797069549560547
+URL https://www.wikipedia.org 1588149700.5444233
+Time taken by proxy to respond: 1.6478023529052734
+
+Time taken to receive the message : 2.5485658645629883
+URL https://www.wikipedia.org 1588149704.864329
+Time taken by proxy to respond: 1.7042040824890137
+
+Time taken to receive the message : 3.5301690101623535
+URL https://www.wikipedia.org 1588149706.7393386
+Time taken by proxy to respond: 1.7372958660125732
+
+Time taken to receive the message : 2.8918769359588623
+URL https://www.wikipedia.org 1588149710.2856963
+Time taken by proxy to respond: 1.6187803745269775
+
+Time taken to receive the message : 2.237013816833496
+URL https://www.wikipedia.org 1588149716.1925788
+Time taken by proxy to respond: 1.4799473285675049
+
+Time taken to receive the message : 2.0730767250061035
+URL https://www.wikipedia.org 1588149722.2380376
+Time taken by proxy to respond: 1.5331025123596191
+
+Time taken to receive the message : 2.2188031673431396
+URL https://www.wikipedia.org 1588149726.8281224
+Time taken by proxy to respond: 1.4041776657104492
+
+Time taken to receive the message : 2.604823589324951
+URL https://www.wikipedia.org 1588149740.4503026
+Time taken by proxy to respond: 1.4758236408233643
+
+Time taken to receive the message : 1.743295431137085
+URL https://www.wikipedia.org 1588149746.6991794
+Time taken by proxy to respond: 1.5621633529663086
+
+Time taken to receive the message : 1.2836625576019287
+URL https://www.wikipedia.org 1588149751.0749373
+Time taken by proxy to respond: 1.347276210784912
+
+Time taken to receive the message : 1.6779770851135254
+URL https://www.wikipedia.org 1588149755.4487426
+Time taken by proxy to respond: 1.3351454734802246
+
+Time taken to receive the message : 2.282496213912964
+URL https://www.wikipedia.org 1588149760.0388176
+Time taken by proxy to respond: 1.3160758018493652
+
+Time taken to receive the message : 1.861008644104004
+URL https://www.wikipedia.org 1588149764.2898734
+Time taken by proxy to respond: 1.2962646484375
+
+Time taken to receive the message : 3.3497586250305176
+URL https://www.wikipedia.org 1588149769.0963426
+Time taken by proxy to respond: 1.852247714996338
+
+Time taken to receive the message : 2.231391429901123
+URL https://www.wikipedia.org 1588149775.188342
+Time taken by proxy to respond: 1.4584136009216309
+
+Time taken to receive the message : 2.4918224811553955
+URL https://www.wikipedia.org 1588149780.0295722
+Time taken by proxy to respond: 1.288804292678833
+
+Time taken to receive the message : 1.5658369064331055
+URL https://www.wikipedia.org 1588149785.5843363
+Time taken by proxy to respond: 1.3405613899230957
+
+Time taken to receive the message : 5.899875640869141
+URL https://www.wikipedia.org 1588149790.2035189
+Time taken by proxy to respond: 1.4286823272705078
+
+Time taken to receive the message : 1.6711945533752441
+URL https://www.wikipedia.org 1588149798.8305817
+Time taken by proxy to respond: 1.525270938873291
+
+Time taken to receive the message : 1.6082594394683838
+URL https://www.wikipedia.org 1588149803.4032114
+Time taken by proxy to respond: 1.5016562938690186
+
+Time taken to receive the message : 1.552274227142334
+URL https://www.wikipedia.org 1588149807.7935658
+Time taken by proxy to respond: 1.4986815452575684
+
+Time taken to receive the message : 1.9654572010040283
+URL https://www.wikipedia.org 1588149812.2798293
+Time taken by proxy to respond: 1.5599191188812256
+
+Time taken to receive the message : 2.736923933029175
+URL https://www.wikipedia.org 1588149817.1701777
+Time taken by proxy to respond: 1.498382329940796
+
+Time taken to receive the message : 1.8988549709320068
+URL https://www.wikipedia.org 1588149822.851125
+Time taken by proxy to respond: 1.4292147159576416
+
+Time taken to receive the message : 2.604079008102417
+URL https://www.wikipedia.org 1588149827.5145376
+Time taken by proxy to respond: 1.588850736618042
+
+Time taken to receive the message : 1.887477159500122
+URL https://www.wikipedia.org 1588149833.7840679
+Time taken by proxy to respond: 1.5444655418395996
+
+Time taken to receive the message : 4.916411399841309
+URL https://www.wikipedia.org 1588149838.3567424
+Time taken by proxy to respond: 1.6120696067810059
+
+Time taken to receive the message : 1.7489590644836426
+URL https://www.wikipedia.org 1588149855.769416
+Time taken by proxy to respond: 1.3208487033843994
+
+Time taken to receive the message : 1.7494289875030518
+URL https://www.wikipedia.org 1588149860.4446158
+Time taken by proxy to respond: 1.3443515300750732
+
+Time taken to receive the message : 2.191744565963745
+URL https://www.wikipedia.org 1588149865.1695404
+Time taken by proxy to respond: 1.2911558151245117
+
+Time taken to receive the message : 1.7019073963165283
+URL https://www.wikipedia.org 1588149870.3574667
+Time taken by proxy to respond: 1.3490352630615234
+
+Time taken to receive the message : 1.5977773666381836
+URL https://www.wikipedia.org 1588149875.0965078
+Time taken by proxy to respond: 1.372232437133789
+
+Time taken to receive the message : 1.5324687957763672
+URL https://www.wikipedia.org 1588149878.7174287
+Time taken by proxy to respond: 1.3006031513214111
+
+Time taken to receive the message : 1.8675360679626465
+URL https://www.wikipedia.org 1588149883.275839
+Time taken by proxy to respond: 1.3168587684631348
+
+Time taken to receive the message : 2.0554451942443848
+URL https://www.wikipedia.org 1588149888.2276065
+Time taken by proxy to respond: 1.527703046798706
+
+Time taken to receive the message : 1.8231537342071533
+URL https://www.wikipedia.org 1588149893.028073
+Time taken by proxy to respond: 1.615882396697998
+
+Time taken to receive the message : 1.9428675174713135
+URL https://www.wikipedia.org 1588149897.343443
+Time taken by proxy to respond: 1.8649487495422363
+
+Time taken to receive the message : 1.4290368556976318
+URL https://www.jd.com 1588149901.998314
+Time taken by proxy to respond: 3.068058967590332
+
+Time taken to receive the message : 1.9749174118041992
+URL https://www.jd.com 1588149907.5450542
+Time taken by proxy to respond: 1.459690809249878
+
+Time taken to receive the message : 1.990264892578125
+URL https://www.jd.com 1588149912.0664043
+Time taken by proxy to respond: 1.0472428798675537
+
+Time taken to receive the message : 2.558795213699341
+URL https://www.jd.com 1588149916.8938315
+Time taken by proxy to respond: 0.9439876079559326
+
+Time taken to receive the message : 2.1946516036987305
+URL https://www.jd.com 1588149921.1271672
+Time taken by proxy to respond: 0.9555799961090088
+
+Time taken to receive the message : 2.0754034519195557
+URL https://www.jd.com 1588149925.215906
+Time taken by proxy to respond: 0.9751036167144775
+
+Time taken to receive the message : 2.6483161449432373
+URL https://www.jd.com 1588149929.9517894
+Time taken by proxy to respond: 0.9935946464538574
+
+Time taken to receive the message : 2.1279306411743164
+URL https://www.jd.com 1588149934.476188
+Time taken by proxy to respond: 0.9404904842376709
+
+Time taken to receive the message : 4.2966084480285645
+URL https://www.jd.com 1588149952.1773865
+Time taken by proxy to respond: 0.9906010627746582
+
+Time taken to receive the message : 2.917773723602295
+URL https://www.jd.com 1588149955.6955903
+Time taken by proxy to respond: 1.289935827255249
+
+Time taken to receive the message : 1.8229317665100098
+URL https://www.jd.com 1588149959.291364
+Time taken by proxy to respond: 1.0256142616271973
+
+Time taken to receive the message : 2.751845598220825
+URL https://www.jd.com 1588149960.5755966
+Time taken by proxy to respond: 3.124830484390259
+
+Time taken to receive the message : 4.513935327529907
+URL https://www.jd.com 1588149963.1366396
+Time taken by proxy to respond: 0.9991867542266846
+
+Time taken to receive the message : 1.9041152000427246
+URL https://www.jd.com 1588149968.6955159
+Time taken by proxy to respond: 0.9900743961334229
+
+Time taken to receive the message : 2.423011541366577
+URL https://www.jd.com 1588149970.3258178
+Time taken by proxy to respond: 0.9941329956054688
+
+Time taken to receive the message : 2.458099603652954
+URL https://www.jd.com 1588149973.0788891
+Time taken by proxy to respond: 1.0600428581237793
+
+Time taken to receive the message : 1.5015897750854492
+URL https://www.jd.com 1588149976.2974823
+Time taken by proxy to respond: 0.9403457641601562
+
+Time taken to receive the message : 2.3555941581726074
+URL https://www.jd.com 1588149977.5507624
+Time taken by proxy to respond: 1.1224241256713867
+
+Time taken to receive the message : 3.9623403549194336
+URL https://www.jd.com 1588149982.1424017
+Time taken by proxy to respond: 0.9830019474029541
+
+Time taken to receive the message : 2.009754180908203
+URL https://www.jd.com 1588149989.1418703
+Time taken by proxy to respond: 1.359626054763794
+
+Time taken to receive the message : 2.4876623153686523
+URL https://www.jd.com 1588149994.0153015
+Time taken by proxy to respond: 0.9948296546936035
+
+Time taken to receive the message : 1.6912140846252441
+URL https://www.jd.com 1588149999.057263
+Time taken by proxy to respond: 0.956505298614502
+
+Time taken to receive the message : 1.8671259880065918
+URL https://www.jd.com 1588150003.6977904
+Time taken by proxy to respond: 0.9244203567504883
+
+Time taken to receive the message : 3.8899612426757812
+URL https://www.jd.com 1588150021.392591
+Time taken by proxy to respond: 2.15793776512146
+
+Time taken to receive the message : 3.69264817237854
+URL https://www.jd.com 1588150024.9070234
+Time taken by proxy to respond: 0.9648187160491943
+
+Time taken to receive the message : 1.584501028060913
+URL https://www.jd.com 1588150029.5867922
+Time taken by proxy to respond: 1.0016608238220215
+
+Time taken to receive the message : 2.4730868339538574
+URL https://www.jd.com 1588150030.8950193
+Time taken by proxy to respond: 0.9902632236480713
+
+Time taken to receive the message : 2.405257225036621
+URL https://www.jd.com 1588150033.135846
+Time taken by proxy to respond: 0.9871060848236084
+
+Time taken to receive the message : 2.414724349975586
+URL https://www.jd.com 1588150035.5015492
+Time taken by proxy to respond: 0.9813969135284424
+
+Time taken to receive the message : 2.041900157928467
+URL https://www.jd.com 1588150038.300505
+Time taken by proxy to respond: 1.1916346549987793
+
+Time taken to receive the message : 2.881507396697998
+URL https://www.jd.com 1588150039.881596
+Time taken by proxy to respond: 1.0166058540344238
+
+Time taken to receive the message : 2.675537586212158
+URL https://www.jd.com 1588150043.447177
+Time taken by proxy to respond: 1.0350229740142822
+
+Time taken to receive the message : 2.564069986343384
+URL https://www.jd.com 1588150045.7828035
+Time taken by proxy to respond: 0.9829118251800537
+
+Time taken to receive the message : 2.6046860218048096
+URL https://www.jd.com 1588150047.8896115
+Time taken by proxy to respond: 1.080486536026001
+
+Time taken to receive the message : 1.940657377243042
+URL https://www.jd.com 1588150050.822848
+Time taken by proxy to respond: 0.940295934677124
+
+Time taken to receive the message : 2.438262939453125
+URL https://www.jd.com 1588150052.4677975
+Time taken by proxy to respond: 0.9878182411193848
+
+Time taken to receive the message : 2.018303632736206
+URL https://www.jd.com 1588150055.0421522
+Time taken by proxy to respond: 1.0774071216583252
+
+Time taken to receive the message : 1.8859968185424805
+URL https://www.jd.com 1588150057.4495535
+Time taken by proxy to respond: 0.89632248878479
+
+Time taken to receive the message : 2.627110242843628
+URL https://www.jd.com 1588150058.8054996
+Time taken by proxy to respond: 0.9605333805084229
+
+Time taken to receive the message : 3.575155258178711
+URL https://www.jd.com 1588150062.0540752
+Time taken by proxy to respond: 1.0007977485656738
+
+Time taken to receive the message : 2.4824881553649902
+URL https://www.jd.com 1588150065.315822
+Time taken by proxy to respond: 1.0220723152160645
+
+Time taken to receive the message : 2.1176583766937256
+URL https://www.jd.com 1588150068.535123
+Time taken by proxy to respond: 1.1515650749206543
+
+Time taken to receive the message : 2.976641893386841
+URL https://www.jd.com 1588150070.0535123
+Time taken by proxy to respond: 1.1824157238006592
+
+Time taken to receive the message : 2.416450262069702
+URL https://www.jd.com 1588150073.5654492
+Time taken by proxy to respond: 1.5358664989471436
+
+Time taken to receive the message : 3.4421048164367676
+URL https://www.jd.com 1588150075.278619
+Time taken by proxy to respond: 1.5549168586730957
+
+Time taken to receive the message : 2.4133715629577637
+URL https://www.jd.com 1588150079.0892255
+Time taken by proxy to respond: 1.2549660205841064
+
+Time taken to receive the message : 2.364105701446533
+URL https://www.jd.com 1588150081.5550768
+Time taken by proxy to respond: 1.424109697341919
+
+Time taken to receive the message : 1.6503217220306396
+URL https://www.jd.com 1588150084.932899
+Time taken by proxy to respond: 2.275989294052124
+
+Time taken to receive the message : 3.709714412689209
+URL https://www.jd.com 1588150086.3163846
+Time taken by proxy to respond: 1.1826095581054688
+
+Time taken to receive the message : 2.616600751876831
+URL https://www.yahoo.com 1588150090.5633361
+Time taken by proxy to respond: 2.704704761505127
+
+Time taken to receive the message : 4.377274036407471
+URL https://www.yahoo.com 1588150092.7113042
+Time taken by proxy to respond: 2.705447196960449
+
+Time taken to receive the message : 3.8397574424743652
+URL https://www.yahoo.com 1588150097.1573029
+Time taken by proxy to respond: 3.136474609375
+
+Time taken to receive the message : 4.752778053283691
+URL https://www.yahoo.com 1588150100.5508478
+Time taken by proxy to respond: 5.773425817489624
+
+Time taken to receive the message : 6.606214761734009
+URL https://www.yahoo.com 1588150105.6352296
+Time taken by proxy to respond: 2.220973253250122
+
+Time taken to receive the message : 2.875258445739746
+URL https://www.yahoo.com 1588150112.8204873
+Time taken by proxy to respond: 2.8185651302337646
+
+Time taken to receive the message : 4.378055572509766
+URL https://www.yahoo.com 1588150115.3380313
+Time taken by proxy to respond: 3.12097430229187
+
+Time taken to receive the message : 3.554706335067749
+URL https://www.yahoo.com 1588150120.4462388
+Time taken by proxy to respond: 7.060580730438232
+
+Time taken to receive the message : 7.923595190048218
+URL https://www.yahoo.com 1588150124.2983165
+Time taken by proxy to respond: 2.1386637687683105
+
+Time taken to receive the message : 3.0164577960968018
+URL https://www.yahoo.com 1588150135.7854707
+Time taken by proxy to respond: 2.548290967941284
+
+Time taken to receive the message : 1.8167741298675537
+URL https://www.yahoo.com 1588150143.6147711
+Time taken by proxy to respond: 7.447248458862305
+
+Time taken to receive the message : 1.9839940071105957
+URL https://www.yahoo.com 1588150154.9485786
+Time taken by proxy to respond: 2.241224765777588
+
+Time taken to receive the message : 2.0235469341278076
+URL https://www.yahoo.com 1588150160.9558377
+Time taken by proxy to respond: 2.993043899536133
+
+Time taken to receive the message : 1.9037737846374512
+URL https://www.yahoo.com 1588150166.6497872
+Time taken by proxy to respond: 3.655555486679077
+
+Time taken to receive the message : 2.0028469562530518
+URL https://www.yahoo.com 1588150173.5409644
+Time taken by proxy to respond: 5.627807378768921
+
+Time taken to receive the message : 2.092813014984131
+URL https://www.yahoo.com 1588150191.118176
+Time taken by proxy to respond: 5.0134031772613525
+
+Time taken to receive the message : 6.777840614318848
+URL https://www.yahoo.com 1588150192.6510165
+Time taken by proxy to respond: 3.700209379196167
+
+Time taken to receive the message : 4.385324478149414
+URL https://www.yahoo.com 1588150199.91477
+Time taken by proxy to respond: 5.701304197311401
+
+Time taken to receive the message : 6.690884351730347
+URL https://www.yahoo.com 1588150204.551686
+Time taken by proxy to respond: 2.5381689071655273
+
+Time taken to receive the message : 3.331136465072632
+URL https://www.yahoo.com 1588150211.622409
+Time taken by proxy to respond: 2.4510855674743652
+
+Time taken to receive the message : 2.304511785507202
+URL https://www.yahoo.com 1588150216.3038201
+Time taken by proxy to respond: 2.312532901763916
+
+Time taken to receive the message : 4.121747732162476
+URL https://www.yahoo.com 1588150217.9790237
+Time taken by proxy to respond: 2.280599355697632
+
+Time taken to receive the message : 2.937007427215576
+URL https://www.yahoo.com 1588150222.6536953
+Time taken by proxy to respond: 2.468792200088501
+
+Time taken to receive the message : 3.523024082183838
+URL https://www.yahoo.com 1588150225.7430344
+Time taken by proxy to respond: 2.4024550914764404
+
+Time taken to receive the message : 3.73418927192688
+URL https://www.yahoo.com 1588150229.1400669
+Time taken by proxy to respond: 6.059136152267456
+
+Time taken to receive the message : 7.488126993179321
+URL https://www.yahoo.com 1588150232.6789322
+Time taken by proxy to respond: 3.165346145629883
+
+Time taken to receive the message : 4.001864671707153
+URL https://www.yahoo.com 1588150240.5308151
+Time taken by proxy to respond: 2.2261664867401123
+
+Time taken to receive the message : 4.030498504638672
+URL https://www.yahoo.com 1588150243.9390337
+Time taken by proxy to respond: 2.2306365966796875
+
+Time taken to receive the message : 4.043546676635742
+URL https://www.yahoo.com 1588150247.3259966
+Time taken by proxy to respond: 2.2264978885650635
+
+Time taken to receive the message : 3.872480869293213
+URL https://www.yahoo.com 1588150250.9428072
+Time taken by proxy to respond: 4.543412923812866
+
+Time taken to receive the message : 4.488149881362915
+URL https://www.yahoo.com 1588150256.0419462
+Time taken by proxy to respond: 5.947355031967163
+
+Time taken to receive the message : 7.318339824676514
+URL https://www.yahoo.com 1588150260.3405492
+Time taken by proxy to respond: 4.756053924560547
+
+Time taken to receive the message : 6.017856121063232
+URL https://www.yahoo.com 1588150267.6016474
+Time taken by proxy to respond: 4.894404172897339
+
+Time taken to receive the message : 2.1388461589813232
+URL https://www.yahoo.com 1588150280.2855008
+Time taken by proxy to respond: 11.248583793640137
+
+Time taken to receive the message : 1.984792709350586
+URL https://www.yahoo.com 1588150298.106001
+Time taken by proxy to respond: 5.552466869354248
+
+Time taken to receive the message : 6.229937314987183
+URL https://www.yahoo.com 1588150300.5845737
+Time taken by proxy to respond: 3.3386688232421875
+
+Time taken to receive the message : 4.100101947784424
+URL https://www.yahoo.com 1588150307.255629
+Time taken by proxy to respond: 5.415456771850586
+
+Time taken to receive the message : 6.883939743041992
+URL https://www.yahoo.com 1588150311.0535789
+Time taken by proxy to respond: 2.712606191635132
+
+Time taken to receive the message : 3.260141611099243
+URL https://www.yahoo.com 1588150318.570446
+Time taken by proxy to respond: 4.3277599811553955
+
+Time taken to receive the message : 5.10040807723999
+URL https://www.yahoo.com 1588150322.2325454
+Time taken by proxy to respond: 2.398026466369629
+
+Time taken to receive the message : 1.885852336883545
+URL https://www.yahoo.com 1588150330.7471986
+Time taken by proxy to respond: 7.601504564285278
+
+Time taken to receive the message : 1.8918614387512207
+URL https://www.yahoo.com 1588150341.2406166
+Time taken by proxy to respond: 2.59568452835083
+
+Time taken to receive the message : 2.315737724304199
+URL https://www.yahoo.com 1588150347.2126596
+Time taken by proxy to respond: 2.4979960918426514
+
+Time taken to receive the message : 1.9339721202850342
+URL https://www.yahoo.com 1588150353.6045504
+Time taken by proxy to respond: 2.563019037246704
+
+Time taken to receive the message : 2.7157678604125977
+URL https://www.yahoo.com 1588150359.318378
+Time taken by proxy to respond: 5.9742090702056885
+
+Time taken to receive the message : 1.8446524143218994
+URL https://www.yahoo.com 1588150369.4287007
+Time taken by proxy to respond: 13.881666421890259
+
+Time taken to receive the message : 2.6654927730560303
+URL https://www.yahoo.com 1588150385.8957047
+Time taken by proxy to respond: 2.7070419788360596
+
